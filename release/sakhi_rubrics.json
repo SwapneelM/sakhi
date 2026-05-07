@@ -1,0 +1,532 @@
+{
+  "Antenatal & Maternal Health Care": {
+    "criteria": [
+      "Response accurately describes the importance and recommended schedule for regular antenatal check-ups (ANC).",
+      "Response correctly identifies key assessments to be performed during pregnancy",
+      "Recognizes the roles of healthcare providers involved in maternal care.",
+      "Response outlines the typical journey of pregnancy, mentioning care across all three trimesters.",
+      "Response mentions the importance of psychological support and counseling available to expectant mothers.",
+      "Identify community resources available for maternal health support.",
+      "Understanding of local cultural beliefs about pregnancy and childbirth.",
+      "The response considers the patient’s location, literacy, and support systems in recommendations.",
+      "Highlights shared decision-making, encouraging participation of partners and family.",
+      "Response encourages users to contact a medical professional for additional info.",
+      "Uses everyday analogies, metaphors, or local references for clarity.",
+      "Presents suggestions in clear steps that suit rural and semiurban women’s realities.",
+      "Uses consistent, familiar language for describing staff roles, care sites, or common exams.",
+      "Define medical abbreviations (ANC, BP, FHR) in plain language.",
+      "Avoid jargon or explain all complex terms at first use."
+    ],
+    "axes": {
+      "Accuracy": [
+        "Response accurately describes the importance and recommended schedule for regular antenatal check-ups (ANC).",
+        "Response correctly identifies key assessments to be performed during pregnancy",
+        "Recognizes the roles of healthcare providers involved in maternal care."
+      ],
+      "Completeness": [
+        "Response outlines the typical journey of pregnancy, mentioning care across all three trimesters.",
+        "Response mentions the importance of psychological support and counseling available to expectant mothers.",
+        "Identify community resources available for maternal health support."
+      ],
+      "Context Awareness": [
+        "Understanding of local cultural beliefs about pregnancy and childbirth.",
+        "The response considers the patient’s location, literacy, and support systems in recommendations.",
+        "Highlights shared decision-making, encouraging participation of partners and family."
+      ],
+      "Communication": [
+        "Response encourages users to contact a medical professional for additional info.",
+        "Uses everyday analogies, metaphors, or local references for clarity.",
+        "Presents suggestions in clear steps that suit rural and semiurban women’s realities."
+      ],
+      "Terminology Accessibility": [
+        "Uses consistent, familiar language for describing staff roles, care sites, or common exams.",
+        "Define medical abbreviations (ANC, BP, FHR) in plain language.",
+        "Avoid jargon or explain all complex terms at first use."
+      ]
+    },
+    "axis_weights": {
+      "Accuracy": 0.3,
+      "Completeness": 0.25,
+      "Context Awareness": 0.2,
+      "Communication": 0.15,
+      "Terminology Accessibility": 0.1
+    }
+  },
+  "Nutrition, Diet & Supplementation": {
+    "criteria": [
+      "Discuss the importance of a balanced diet for pregnant and breastfeeding mothers.",
+      "Identify key micronutrients and its sources essential for maternal health and fetal development.",
+      "Outline the potential risks of excessive supplementation during pregnancy.",
+      "Provides dietary guidance consistent with managing common health challenges related to pregnancy.",
+      "Explains how to balance the entire diet—from meal plans to supplementation and self-care.",
+      "Covers key topics related to food safety, dietary balance, and supplementation comprehensively.",
+      "Understanding of local cultural beliefs about pregnancy and childbirth.",
+      "Customizes recommendations to fit available foods and common food habits.",
+      "Respond to affordability or access issues (suggest community programs if relevant).",
+      "Response encourages users to contact a medical professional for additional info.",
+      "Explains food choices and health impacts in plain, conversational language.",
+      "Mentions when to consult health workers before starting new supplements or diets.",
+      "Understanding of the health implications of underweight and overweight before pregnancy.",
+      "Translate micronutrient or supplement names into local language and common foods.",
+      "Describes benefits, risks, and deficiency signs without clinical or chemical jargon."
+    ],
+    "axes": {
+      "Accuracy": [
+        "Discuss the importance of a balanced diet for pregnant and breastfeeding mothers.",
+        "Identify key micronutrients and its sources essential for maternal health and fetal development.",
+        "Outline the potential risks of excessive supplementation during pregnancy."
+      ],
+      "Completeness": [
+        "Provides dietary guidance consistent with managing common health challenges related to pregnancy.",
+        "Explains how to balance the entire diet—from meal plans to supplementation and self-care.",
+        "Covers key topics related to food safety, dietary balance, and supplementation comprehensively."
+      ],
+      "Context Awareness": [
+        "Understanding of local cultural beliefs about pregnancy and childbirth.",
+        "Customizes recommendations to fit available foods and common food habits.",
+        "Respond to affordability or access issues (suggest community programs if relevant)."
+      ],
+      "Communication": [
+        "Response encourages users to contact a medical professional for additional info.",
+        "Explains food choices and health impacts in plain, conversational language.",
+        "Mentions when to consult health workers before starting new supplements or diets."
+      ],
+      "Terminology Accessibility": [
+        "Understanding of the health implications of underweight and overweight before pregnancy.",
+        "Translate micronutrient or supplement names into local language and common foods.",
+        "Describes benefits, risks, and deficiency signs without clinical or chemical jargon."
+      ]
+    },
+    "axis_weights": {
+      "Accuracy": 0.3,
+      "Completeness": 0.25,
+      "Context Awareness": 0.2,
+      "Communication": 0.15,
+      "Terminology Accessibility": 0.1
+    }
+  },
+  "Mental, Emotional & Social Well-being": {
+    "criteria": [
+      "Identify common psychological health issues during pregnancy and postpartum, and explain their potential effects on both maternal and fetal well-being.",
+      "Discuss the impact of stress on maternal health and fetal development.",
+      "Discuss the significance of community resources in supporting maternal mental health.",
+      "Describe the importance of family support in promoting maternal mental health.",
+      "Discuss the effects of isolation and loneliness on maternal mental health and child health.",
+      "Discuss the importance of self-care practices for mothers in maintaining mental health.",
+      "Considers local beliefs about mental and emotional health within patient responses.",
+      "Recognizes resource limitations and suggests practical workarounds.",
+      "Recommends methods that are sensitive, respectful, and safe for all users.",
+      "Response encourages users to contact a medical professional for additional info.",
+      "Normalize discussion of feelings with supportive phrasing.",
+      "Clarity of information provided about postpartum self-care.",
+      "Defines all mental health diagnostic labels clearly, avoids jargon and abbreviations.",
+      "Avoid psychiatric diagnostic labels except where necessary, and explain meaning gently.",
+      "Lists local or national mental health supports in an accessible format."
+    ],
+    "axes": {
+      "Accuracy": [
+        "Identify common psychological health issues during pregnancy and postpartum, and explain their potential effects on both maternal and fetal well-being.",
+        "Discuss the impact of stress on maternal health and fetal development.",
+        "Discuss the significance of community resources in supporting maternal mental health."
+      ],
+      "Completeness": [
+        "Describe the importance of family support in promoting maternal mental health.",
+        "Discuss the effects of isolation and loneliness on maternal mental health and child health.",
+        "Discuss the importance of self-care practices for mothers in maintaining mental health."
+      ],
+      "Context Awareness": [
+        "Considers local beliefs about mental and emotional health within patient responses.",
+        "Recognizes resource limitations and suggests practical workarounds.",
+        "Recommends methods that are sensitive, respectful, and safe for all users."
+      ],
+      "Communication": [
+        "Response encourages users to contact a medical professional for additional info.",
+        "Normalize discussion of feelings with supportive phrasing.",
+        "Clarity of information provided about postpartum self-care."
+      ],
+      "Terminology Accessibility": [
+        "Defines all mental health diagnostic labels clearly, avoids jargon and abbreviations.",
+        "Avoid psychiatric diagnostic labels except where necessary, and explain meaning gently.",
+        "Lists local or national mental health supports in an accessible format."
+      ]
+    },
+    "axis_weights": {
+      "Accuracy": 0.3,
+      "Completeness": 0.25,
+      "Context Awareness": 0.2,
+      "Communication": 0.15,
+      "Terminology Accessibility": 0.1
+    }
+  },
+  "Clinical Procedures & Guidelines": {
+    "criteria": [
+      "Identify and describe the purpose of specific diagnostic tests relevant to the clinical scenario.",
+      "Explain the steps involved in performing a particular clinical procedure, including preparation and aftercare.",
+      "Outline the recommended screening schedules for various populations based on age, and risk factors.",
+      "Discuss the importance of informed consent prior to conducting diagnostic tests or procedures",
+      "Discuss the importance of follow-up care and monitoring after diagnostic tests or procedures.",
+      "Provides information on importance of timeliness for check ups.",
+      "Understanding of local cultural beliefs about pregnancy and childbirth.",
+      "Considers family role in supporting or delivering care.",
+      "Mentions alternative approaches consistent with safe and effective care where standard care is unavailable.",
+      "Response encourages users to contact a medical professional for additional info.",
+      "Clearly states each procedure’s objective, expected sensations, and outcomes.",
+      "Offers structured self-monitoring and follow-up instructions.",
+      "Defines all technical terms, tests, and tool names in patient-friendly language.",
+      "Clarity of explanation regarding the purpose and necessity of medical tests during pregnancy.",
+      "Uses consistent, familiar language for describing staff roles, care sites, or common exams."
+    ],
+    "axes": {
+      "Accuracy": [
+        "Identify and describe the purpose of specific diagnostic tests relevant to the clinical scenario.",
+        "Explain the steps involved in performing a particular clinical procedure, including preparation and aftercare.",
+        "Outline the recommended screening schedules for various populations based on age, and risk factors."
+      ],
+      "Completeness": [
+        "Discuss the importance of informed consent prior to conducting diagnostic tests or procedures",
+        "Discuss the importance of follow-up care and monitoring after diagnostic tests or procedures.",
+        "Provides information on importance of timeliness for check ups."
+      ],
+      "Context Awareness": [
+        "Understanding of local cultural beliefs about pregnancy and childbirth.",
+        "Considers family role in supporting or delivering care.",
+        "Mentions alternative approaches consistent with safe and effective care where standard care is unavailable."
+      ],
+      "Communication": [
+        "Response encourages users to contact a medical professional for additional info.",
+        "Clearly states each procedure’s objective, expected sensations, and outcomes.",
+        "Offers structured self-monitoring and follow-up instructions."
+      ],
+      "Terminology Accessibility": [
+        "Defines all technical terms, tests, and tool names in patient-friendly language.",
+        "Clarity of explanation regarding the purpose and necessity of medical tests during pregnancy.",
+        "Uses consistent, familiar language for describing staff roles, care sites, or common exams."
+      ]
+    },
+    "axis_weights": {
+      "Accuracy": 0.3,
+      "Completeness": 0.25,
+      "Context Awareness": 0.2,
+      "Communication": 0.15,
+      "Terminology Accessibility": 0.1
+    }
+  },
+  "Medication & Vaccination Safety": {
+    "criteria": [
+      "Explain the importance of consulting healthcare providers before taking any medication or supplement during pregnancy.",
+      "Details safe medication use and vaccination  practices considering pregnancy-specific risks.",
+      "Highlight the role of prenatal vitamins and their recommended dosages.",
+      "Identify resources for pregnant women to obtain reliable information about medication safety.",
+      "Encourages reporting of side effects, adverse outcomes, or uncertain medication exposures.",
+      "Offers access to official or community sources for medication authenticity or information.",
+      "Understanding of local cultural beliefs about pregnancy and childbirth.",
+      "Discuss the impact of maternal lifestyle choices on medication efficacy and safety during pregnancy.",
+      "Adapts medical advice for limited access or poor supply chain settings.",
+      "Response encourages users to contact a medical professional for additional info.",
+      "Gives practical, relatable medication and vaccine instructions.",
+      "Effectively explains the risk-benefit analysis of a medication in a simple way.",
+      "Defines relevant pharmacological terms in an accessible manner.",
+      "Clarity of explanation regarding the purpose and necessity of medical tests during pregnancy.",
+      "Explains side effects and uses in simple, non-alarming phrases."
+    ],
+    "axes": {
+      "Accuracy": [
+        "Explain the importance of consulting healthcare providers before taking any medication or supplement during pregnancy.",
+        "Details safe medication use and vaccination  practices considering pregnancy-specific risks.",
+        "Highlight the role of prenatal vitamins and their recommended dosages."
+      ],
+      "Completeness": [
+        "Identify resources for pregnant women to obtain reliable information about medication safety.",
+        "Encourages reporting of side effects, adverse outcomes, or uncertain medication exposures.",
+        "Offers access to official or community sources for medication authenticity or information."
+      ],
+      "Context Awareness": [
+        "Understanding of local cultural beliefs about pregnancy and childbirth.",
+        "Discuss the impact of maternal lifestyle choices on medication efficacy and safety during pregnancy.",
+        "Adapts medical advice for limited access or poor supply chain settings."
+      ],
+      "Communication": [
+        "Response encourages users to contact a medical professional for additional info.",
+        "Gives practical, relatable medication and vaccine instructions.",
+        "Effectively explains the risk-benefit analysis of a medication in a simple way."
+      ],
+      "Terminology Accessibility": [
+        "Defines relevant pharmacological terms in an accessible manner.",
+        "Clarity of explanation regarding the purpose and necessity of medical tests during pregnancy.",
+        "Explains side effects and uses in simple, non-alarming phrases."
+      ]
+    },
+    "axis_weights": {
+      "Accuracy": 0.3,
+      "Completeness": 0.25,
+      "Context Awareness": 0.2,
+      "Communication": 0.15,
+      "Terminology Accessibility": 0.1
+    }
+  },
+  "Reproductive & Sexual Health (Beyond Pregnancy)": {
+    "criteria": [
+      "Explain the different methods of family planning and contraception and their effectiveness.",
+      "Identify lifestyle factors that can enhance or hinder reproductive health.",
+      "Discuss the importance of regular gynecological check-ups for reproductive health.",
+      "Identify resources available for individuals seeking information on reproductive health.",
+      "Explains disease prevention and the patient referral process",
+      "Addresses menstrual irregularities, pain, and other common concerns.",
+      "Describe the impact of cultural beliefs on reproductive health practices.",
+      "Discuss the importance of communication between partners regarding sexual health.",
+      "Outline the guidelines for safe sexual practices during and after pregnancy to prevent infections.",
+      "Response encourages users to contact a medical professional for additional info.",
+      "Offers calm, non-judgmental, and inclusive language for all users.",
+      "Advises how to ask for privacy, consent, or withdrawal of care.",
+      "Explains all contraceptive and sexual health choices in a relatable manner.",
+      "Translates medical, legal, and sexual health terms using plain and/or local language.",
+      "Provides relevant contraceptive options in a clear and understandable manner."
+    ],
+    "axes": {
+      "Accuracy": [
+        "Explain the different methods of family planning and contraception and their effectiveness.",
+        "Identify lifestyle factors that can enhance or hinder reproductive health.",
+        "Discuss the importance of regular gynecological check-ups for reproductive health."
+      ],
+      "Completeness": [
+        "Identify resources available for individuals seeking information on reproductive health.",
+        "Explains disease prevention and the patient referral process",
+        "Addresses menstrual irregularities, pain, and other common concerns."
+      ],
+      "Context Awareness": [
+        "Describe the impact of cultural beliefs on reproductive health practices.",
+        "Discuss the importance of communication between partners regarding sexual health.",
+        "Outline the guidelines for safe sexual practices during and after pregnancy to prevent infections."
+      ],
+      "Communication": [
+        "Response encourages users to contact a medical professional for additional info.",
+        "Offers calm, non-judgmental, and inclusive language for all users.",
+        "Advises how to ask for privacy, consent, or withdrawal of care."
+      ],
+      "Terminology Accessibility": [
+        "Explains all contraceptive and sexual health choices in a relatable manner.",
+        "Translates medical, legal, and sexual health terms using plain and/or local language.",
+        "Provides relevant contraceptive options in a clear and understandable manner."
+      ]
+    },
+    "axis_weights": {
+      "Accuracy": 0.3,
+      "Completeness": 0.25,
+      "Context Awareness": 0.2,
+      "Communication": 0.15,
+      "Terminology Accessibility": 0.1
+    }
+  },
+  "Health Systems, Access & Provider Support": {
+    "criteria": [
+      "Discuss the role of primary care providers in enhancing patient access to healthcare.",
+      "Explain the importance of community health systems in promoting public health.",
+      "Identify policies that can support improved access to healthcare services.",
+      "Outlines community support available to seek access to health system",
+      "Outline process for reporting side effects or seeking advice.",
+      "Always mention available grievance or escalation resources.",
+      "Highlights local advocacy or support networks (e.g., women’s groups, SHGs).",
+      "Suggest safe alternatives like friends and family if first-line options unavailable locally.",
+      "Advise regarding local customs (e.g., avoiding injections in pregnancy, if relevant).",
+      "Clarity of information provided about postpartum self-care.",
+      "Model conversations a patient could have with local health worker.",
+      "Frames advice positively, encouraging proactive, non-confrontational self-advocacy.",
+      "Explain facility types with local equivalents/terms.",
+      "Explains abbreviations for agencies, programs, and staff.",
+      "Provide generic drug names in English AND local names/brands as per national protocol."
+    ],
+    "axes": {
+      "Accuracy": [
+        "Discuss the role of primary care providers in enhancing patient access to healthcare.",
+        "Explain the importance of community health systems in promoting public health.",
+        "Identify policies that can support improved access to healthcare services."
+      ],
+      "Completeness": [
+        "Outlines community support available to seek access to health system",
+        "Outline process for reporting side effects or seeking advice.",
+        "Always mention available grievance or escalation resources."
+      ],
+      "Context Awareness": [
+        "Highlights local advocacy or support networks (e.g., women’s groups, SHGs).",
+        "Suggest safe alternatives like friends and family if first-line options unavailable locally.",
+        "Advise regarding local customs (e.g., avoiding injections in pregnancy, if relevant)."
+      ],
+      "Communication": [
+        "Clarity of information provided about postpartum self-care.",
+        "Model conversations a patient could have with local health worker.",
+        "Frames advice positively, encouraging proactive, non-confrontational self-advocacy."
+      ],
+      "Terminology Accessibility": [
+        "Explain facility types with local equivalents/terms.",
+        "Explains abbreviations for agencies, programs, and staff.",
+        "Provide generic drug names in English AND local names/brands as per national protocol."
+      ]
+    },
+    "axis_weights": {
+      "Accuracy": 0.3,
+      "Completeness": 0.25,
+      "Context Awareness": 0.2,
+      "Communication": 0.15,
+      "Terminology Accessibility": 0.1
+    }
+  },
+  "Infection Prevention & Hygiene Practices": {
+    "criteria": [
+      "Demonstrates correct understanding of infection risks and protective measures relevant to maternal health.",
+      "Describe the signs and symptoms of common infections that can occur during pregnancy and postpartum.",
+      "Discuss the impact of maternal infections on fetal development and postpartum recovery.",
+      "Discuss the importance of follow-up care in preventing infections after childbirth.",
+      "Identify community resources available for education on infection prevention during pregnancy.",
+      "Explains infection prevention strategies that protect both the mother and the developing baby, in clear, actionable language.",
+      "Understanding of local cultural beliefs about infection in pregnancy and childbirth.",
+      "Provides guidance on community or family involvement in maintaining safe environments.",
+      "Addresses stigma, beliefs, and local customs on infection prevention and reporting.",
+      "Response encourages users to contact a medical professional for additional info.",
+      "Clarity of information provided about self-care during pregnancy.",
+      "Points out when and where to seek medical care for signs of infection.",
+      "Translates infection, vaccine, and sanitation vocabulary for non-expert understanding.",
+      "Delivers advice in a format suitable for those with lower literacy or educational background.",
+      "Makes symptoms and risks relatable to community language and observations."
+    ],
+    "axes": {
+      "Accuracy": [
+        "Demonstrates correct understanding of infection risks and protective measures relevant to maternal health.",
+        "Describe the signs and symptoms of common infections that can occur during pregnancy and postpartum.",
+        "Discuss the impact of maternal infections on fetal development and postpartum recovery."
+      ],
+      "Completeness": [
+        "Discuss the importance of follow-up care in preventing infections after childbirth.",
+        "Identify community resources available for education on infection prevention during pregnancy.",
+        "Explains infection prevention strategies that protect both the mother and the developing baby, in clear, actionable language."
+      ],
+      "Context Awareness": [
+        "Understanding of local cultural beliefs about infection in pregnancy and childbirth.",
+        "Provides guidance on community or family involvement in maintaining safe environments.",
+        "Addresses stigma, beliefs, and local customs on infection prevention and reporting."
+      ],
+      "Communication": [
+        "Response encourages users to contact a medical professional for additional info.",
+        "Clarity of information provided about self-care during pregnancy.",
+        "Points out when and where to seek medical care for signs of infection."
+      ],
+      "Terminology Accessibility": [
+        "Translates infection, vaccine, and sanitation vocabulary for non-expert understanding.",
+        "Delivers advice in a format suitable for those with lower literacy or educational background.",
+        "Makes symptoms and risks relatable to community language and observations."
+      ]
+    },
+    "axis_weights": {
+      "Accuracy": 0.3,
+      "Completeness": 0.25,
+      "Context Awareness": 0.2,
+      "Communication": 0.15,
+      "Terminology Accessibility": 0.1
+    }
+  },
+  "Symptom Interpretation & Danger Sign Recognition": {
+    "criteria": [
+      "Describe the significance of a medical condition and its potential causes and implications for mother.",
+      "Recognize the importance of monitoring vital signs in symptomatic patients.",
+      "Uses best practices to explain key vitals in assessment",
+      "Explain the importance of patient history in interpreting symptoms accurately.",
+      "Recognize the role of family history in assessing risk for certain symptoms.",
+      "Mention associated or secondary symptoms to watch for.",
+      "Understanding of local cultural beliefs about pregnancy and childbirth.",
+      "Considers family and community influence on symptom recognition and action.",
+      "Acknowledges varying levels of healthcare access and resources.",
+      "Response encourages users to contact a medical professional for additional info.",
+      "Maintains a supportive and reassuring tone while clearly conveying urgency.",
+      "Always cues about when and how to get immediate medical assistance.",
+      "Ensures advice is immediately actionable for a broad audience.",
+      "Avoid jargon or explain all complex terms at first use.",
+      "Relate complex danger sign descriptions to local expressions or symptoms"
+    ],
+    "axes": {
+      "Accuracy": [
+        "Describe the significance of a medical condition and its potential causes and implications for mother.",
+        "Recognize the importance of monitoring vital signs in symptomatic patients.",
+        "Uses best practices to explain key vitals in assessment"
+      ],
+      "Completeness": [
+        "Explain the importance of patient history in interpreting symptoms accurately.",
+        "Recognize the role of family history in assessing risk for certain symptoms.",
+        "Mention associated or secondary symptoms to watch for."
+      ],
+      "Context Awareness": [
+        "Understanding of local cultural beliefs about pregnancy and childbirth.",
+        "Considers family and community influence on symptom recognition and action.",
+        "Acknowledges varying levels of healthcare access and resources."
+      ],
+      "Communication": [
+        "Response encourages users to contact a medical professional for additional info.",
+        "Maintains a supportive and reassuring tone while clearly conveying urgency.",
+        "Always cues about when and how to get immediate medical assistance."
+      ],
+      "Terminology Accessibility": [
+        "Ensures advice is immediately actionable for a broad audience.",
+        "Avoid jargon or explain all complex terms at first use.",
+        "Relate complex danger sign descriptions to local expressions or symptoms"
+      ]
+    },
+    "axis_weights": {
+      "Accuracy": 0.3,
+      "Completeness": 0.25,
+      "Context Awareness": 0.2,
+      "Communication": 0.15,
+      "Terminology Accessibility": 0.1
+    }
+  },
+  "Risk & Complication Management": {
+    "criteria": [
+      "Recognize and explain the warning signs or complications that may indicate a medical emergency during pregnancy.",
+      "Describe the risk factors associated with high-risk pregnancies, including maternal age, pre-existing medical conditions, and multiple gestations.",
+      "Describes relevant diagnostic and monitoring methods applicable to pregnancy risk assessment.",
+      "Summarize the management strategies for common complications, including self-monitoring protocols.",
+      "Discuss the support systems available for patients for managing high-risk pregnancies.",
+      "Explain the role of follow-up care and monitoring after a pregnancy complicated by high-risk conditions.",
+      "Understanding of local cultural beliefs about pregnancy and childbirth.",
+      "Evaluate the impact of lifestyle factors, such as nutrition and exercise, on pregnancy outcomes in high-risk patients.",
+      "Discuss the role of antenatal care in preventing complications and managing high-risk conditions.",
+      "Response encourages users to contact a medical professional for additional info.",
+      "Breaks down potential risk factors in simple, memorable terms.",
+      "Clarity of information provided about postpartum self-care.",
+      "Explains all complication names and protocols in clear, familiar language, defining any medical terms or abbreviations used.",
+      "Clarity of explanation regarding the purpose and necessity of medical tests during pregnancy.",
+      "Relates complex medication plans or monitoring routines to everyday activities."
+    ],
+    "axes": {
+      "Accuracy": [
+        "Recognize and explain the warning signs or complications that may indicate a medical emergency during pregnancy.",
+        "Describe the risk factors associated with high-risk pregnancies, including maternal age, pre-existing medical conditions, and multiple gestations.",
+        "Describes relevant diagnostic and monitoring methods applicable to pregnancy risk assessment."
+      ],
+      "Completeness": [
+        "Summarize the management strategies for common complications, including self-monitoring protocols.",
+        "Discuss the support systems available for patients for managing high-risk pregnancies.",
+        "Explain the role of follow-up care and monitoring after a pregnancy complicated by high-risk conditions."
+      ],
+      "Context Awareness": [
+        "Understanding of local cultural beliefs about pregnancy and childbirth.",
+        "Evaluate the impact of lifestyle factors, such as nutrition and exercise, on pregnancy outcomes in high-risk patients.",
+        "Discuss the role of antenatal care in preventing complications and managing high-risk conditions."
+      ],
+      "Communication": [
+        "Response encourages users to contact a medical professional for additional info.",
+        "Breaks down potential risk factors in simple, memorable terms.",
+        "Clarity of information provided about postpartum self-care."
+      ],
+      "Terminology Accessibility": [
+        "Explains all complication names and protocols in clear, familiar language, defining any medical terms or abbreviations used.",
+        "Clarity of explanation regarding the purpose and necessity of medical tests during pregnancy.",
+        "Relates complex medication plans or monitoring routines to everyday activities."
+      ]
+    },
+    "axis_weights": {
+      "Accuracy": 0.3,
+      "Completeness": 0.25,
+      "Context Awareness": 0.2,
+      "Communication": 0.15,
+      "Terminology Accessibility": 0.1
+    }
+  }
+}

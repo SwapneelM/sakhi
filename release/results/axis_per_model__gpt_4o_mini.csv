@@ -1,0 +1,376 @@
+gen_model,dataset,lang,axis,n,pass_rate
+aya_expanse,expert,en,Accuracy,1341,0.2595
+aya_expanse,expert,en,Communication,1341,0.5324
+aya_expanse,expert,en,Completeness,1341,0.1834
+aya_expanse,expert,en,Context Awareness,1341,0.1834
+aya_expanse,expert,en,Terminology Accessibility,1341,0.123
+aya_expanse,expert,hi,Accuracy,1341,0.2953
+aya_expanse,expert,hi,Communication,1341,0.5436
+aya_expanse,expert,hi,Completeness,1341,0.2013
+aya_expanse,expert,hi,Context Awareness,1341,0.1931
+aya_expanse,expert,hi,Terminology Accessibility,1341,0.1566
+aya_expanse,expert,mr,Accuracy,1341,0.2521
+aya_expanse,expert,mr,Communication,1341,0.5048
+aya_expanse,expert,mr,Completeness,1341,0.1715
+aya_expanse,expert,mr,Context Awareness,1341,0.1812
+aya_expanse,expert,mr,Terminology Accessibility,1341,0.1104
+aya_expanse,non_expert,en,Accuracy,2079,0.3598
+aya_expanse,non_expert,en,Communication,2079,0.6551
+aya_expanse,non_expert,en,Completeness,2079,0.367
+aya_expanse,non_expert,en,Context Awareness,2079,0.2415
+aya_expanse,non_expert,en,Terminology Accessibility,2079,0.1477
+aya_expanse,non_expert,hi,Accuracy,2079,0.3449
+aya_expanse,non_expert,hi,Communication,2079,0.6335
+aya_expanse,non_expert,hi,Completeness,2079,0.3155
+aya_expanse,non_expert,hi,Context Awareness,2079,0.2309
+aya_expanse,non_expert,hi,Terminology Accessibility,2079,0.1727
+aya_expanse,non_expert,mr,Accuracy,2079,0.3078
+aya_expanse,non_expert,mr,Communication,2079,0.596
+aya_expanse,non_expert,mr,Completeness,2079,0.3232
+aya_expanse,non_expert,mr,Context Awareness,2079,0.2217
+aya_expanse,non_expert,mr,Terminology Accessibility,2079,0.1539
+claude_haiku_4_5,expert,en,Accuracy,1134,0.2822
+claude_haiku_4_5,expert,en,Communication,1134,0.4947
+claude_haiku_4_5,expert,en,Completeness,1134,0.1631
+claude_haiku_4_5,expert,en,Context Awareness,1134,0.1993
+claude_haiku_4_5,expert,en,Terminology Accessibility,1134,0.1631
+claude_haiku_4_5,expert,hi,Accuracy,786,0.3117
+claude_haiku_4_5,expert,hi,Communication,786,0.5394
+claude_haiku_4_5,expert,hi,Completeness,786,0.1768
+claude_haiku_4_5,expert,hi,Context Awareness,786,0.2099
+claude_haiku_4_5,expert,hi,Terminology Accessibility,786,0.1756
+claude_haiku_4_5,expert,mr,Accuracy,786,0.3244
+claude_haiku_4_5,expert,mr,Communication,786,0.5547
+claude_haiku_4_5,expert,mr,Completeness,786,0.1934
+claude_haiku_4_5,expert,mr,Context Awareness,786,0.2125
+claude_haiku_4_5,expert,mr,Terminology Accessibility,786,0.1921
+claude_haiku_4_5,non_expert,en,Accuracy,1740,0.4259
+claude_haiku_4_5,non_expert,en,Communication,1740,0.6891
+claude_haiku_4_5,non_expert,en,Completeness,1740,0.4034
+claude_haiku_4_5,non_expert,en,Context Awareness,1740,0.2644
+claude_haiku_4_5,non_expert,en,Terminology Accessibility,1740,0.1931
+claude_haiku_4_5,non_expert,hi,Accuracy,1737,0.4076
+claude_haiku_4_5,non_expert,hi,Communication,1737,0.673
+claude_haiku_4_5,non_expert,hi,Completeness,1737,0.384
+claude_haiku_4_5,non_expert,hi,Context Awareness,1737,0.27
+claude_haiku_4_5,non_expert,hi,Terminology Accessibility,1737,0.2487
+claude_haiku_4_5,non_expert,mr,Accuracy,2079,0.3983
+claude_haiku_4_5,non_expert,mr,Communication,2079,0.6383
+claude_haiku_4_5,non_expert,mr,Completeness,2079,0.3713
+claude_haiku_4_5,non_expert,mr,Context Awareness,2079,0.2535
+claude_haiku_4_5,non_expert,mr,Terminology Accessibility,2079,0.2222
+claude_opus_4_7,expert,en,Accuracy,1341,0.3095
+claude_opus_4_7,expert,en,Communication,1341,0.5757
+claude_opus_4_7,expert,en,Completeness,1341,0.214
+claude_opus_4_7,expert,en,Context Awareness,1341,0.22
+claude_opus_4_7,expert,en,Terminology Accessibility,1341,0.1745
+claude_opus_4_7,expert,hi,Accuracy,1341,0.3758
+claude_opus_4_7,expert,hi,Communication,1341,0.6212
+claude_opus_4_7,expert,hi,Completeness,1341,0.2416
+claude_opus_4_7,expert,hi,Context Awareness,1341,0.2349
+claude_opus_4_7,expert,hi,Terminology Accessibility,1341,0.2349
+claude_opus_4_7,expert,mr,Accuracy,1341,0.4206
+claude_opus_4_7,expert,mr,Communication,1341,0.6734
+claude_opus_4_7,expert,mr,Completeness,1341,0.2946
+claude_opus_4_7,expert,mr,Context Awareness,1341,0.2722
+claude_opus_4_7,expert,mr,Terminology Accessibility,1341,0.302
+claude_opus_4_7,non_expert,en,Accuracy,2079,0.4392
+claude_opus_4_7,non_expert,en,Communication,2079,0.7162
+claude_opus_4_7,non_expert,en,Completeness,2079,0.4401
+claude_opus_4_7,non_expert,en,Context Awareness,2079,0.316
+claude_opus_4_7,non_expert,en,Terminology Accessibility,2079,0.2751
+claude_opus_4_7,non_expert,hi,Accuracy,2079,0.4704
+claude_opus_4_7,non_expert,hi,Communication,2079,0.696
+claude_opus_4_7,non_expert,hi,Completeness,2079,0.4502
+claude_opus_4_7,non_expert,hi,Context Awareness,2079,0.3598
+claude_opus_4_7,non_expert,hi,Terminology Accessibility,2079,0.3882
+claude_opus_4_7,non_expert,mr,Accuracy,2079,0.4613
+claude_opus_4_7,non_expert,mr,Communication,2079,0.6647
+claude_opus_4_7,non_expert,mr,Completeness,2079,0.4372
+claude_opus_4_7,non_expert,mr,Context Awareness,2079,0.3386
+claude_opus_4_7,non_expert,mr,Terminology Accessibility,2079,0.3632
+cohere_command_a,expert,en,Accuracy,1134,0.2293
+cohere_command_a,expert,en,Communication,1134,0.478
+cohere_command_a,expert,en,Completeness,1134,0.1155
+cohere_command_a,expert,en,Context Awareness,1134,0.1702
+cohere_command_a,expert,en,Terminology Accessibility,1134,0.1014
+cohere_command_a,expert,hi,Accuracy,1134,0.2769
+cohere_command_a,expert,hi,Communication,1134,0.5018
+cohere_command_a,expert,hi,Completeness,1134,0.1393
+cohere_command_a,expert,hi,Context Awareness,1134,0.1887
+cohere_command_a,expert,hi,Terminology Accessibility,1134,0.1587
+cohere_command_a,expert,mr,Accuracy,1134,0.2566
+cohere_command_a,expert,mr,Communication,1134,0.5097
+cohere_command_a,expert,mr,Completeness,1134,0.1429
+cohere_command_a,expert,mr,Context Awareness,1134,0.1684
+cohere_command_a,expert,mr,Terminology Accessibility,1134,0.1446
+cohere_command_a,non_expert,en,Accuracy,2079,0.381
+cohere_command_a,non_expert,en,Communication,2079,0.6763
+cohere_command_a,non_expert,en,Completeness,2079,0.3684
+cohere_command_a,non_expert,en,Context Awareness,2079,0.2496
+cohere_command_a,non_expert,en,Terminology Accessibility,2079,0.1597
+cohere_command_a,non_expert,hi,Accuracy,2079,0.3617
+cohere_command_a,non_expert,hi,Communication,2079,0.6089
+cohere_command_a,non_expert,hi,Completeness,2079,0.3367
+cohere_command_a,non_expert,hi,Context Awareness,2079,0.2342
+cohere_command_a,non_expert,hi,Terminology Accessibility,2079,0.1953
+cohere_command_a,non_expert,mr,Accuracy,2079,0.3516
+cohere_command_a,non_expert,mr,Communication,2079,0.5671
+cohere_command_a,non_expert,mr,Completeness,2079,0.3309
+cohere_command_a,non_expert,mr,Context Awareness,2079,0.216
+cohere_command_a,non_expert,mr,Terminology Accessibility,2079,0.1722
+gemini_3_flash,expert,en,Accuracy,1134,0.2443
+gemini_3_flash,expert,en,Communication,1134,0.4859
+gemini_3_flash,expert,en,Completeness,1134,0.1226
+gemini_3_flash,expert,en,Context Awareness,1134,0.1623
+gemini_3_flash,expert,en,Terminology Accessibility,1134,0.1199
+gemini_3_flash,expert,hi,Accuracy,1134,0.3025
+gemini_3_flash,expert,hi,Communication,1134,0.5088
+gemini_3_flash,expert,hi,Completeness,1134,0.134
+gemini_3_flash,expert,hi,Context Awareness,1134,0.1772
+gemini_3_flash,expert,hi,Terminology Accessibility,1134,0.1772
+gemini_3_flash,expert,mr,Accuracy,1134,0.3157
+gemini_3_flash,expert,mr,Communication,1134,0.5653
+gemini_3_flash,expert,mr,Completeness,1134,0.1614
+gemini_3_flash,expert,mr,Context Awareness,1134,0.1861
+gemini_3_flash,expert,mr,Terminology Accessibility,1134,0.1984
+gemini_3_flash,non_expert,en,Accuracy,2079,0.3867
+gemini_3_flash,non_expert,en,Communication,2079,0.6878
+gemini_3_flash,non_expert,en,Completeness,2079,0.3704
+gemini_3_flash,non_expert,en,Context Awareness,2079,0.2395
+gemini_3_flash,non_expert,en,Terminology Accessibility,2079,0.1626
+gemini_3_flash,non_expert,hi,Accuracy,2079,0.3935
+gemini_3_flash,non_expert,hi,Communication,2079,0.6696
+gemini_3_flash,non_expert,hi,Completeness,2079,0.3603
+gemini_3_flash,non_expert,hi,Context Awareness,2079,0.2468
+gemini_3_flash,non_expert,hi,Terminology Accessibility,2079,0.2131
+gemini_3_flash,non_expert,mr,Accuracy,2079,0.3997
+gemini_3_flash,non_expert,mr,Communication,2079,0.6561
+gemini_3_flash,non_expert,mr,Completeness,2079,0.3785
+gemini_3_flash,non_expert,mr,Context Awareness,2079,0.2463
+gemini_3_flash,non_expert,mr,Terminology Accessibility,2079,0.2039
+gemini_3_pro,expert,en,Accuracy,1134,0.2143
+gemini_3_pro,expert,en,Communication,1134,0.4956
+gemini_3_pro,expert,en,Completeness,1134,0.1155
+gemini_3_pro,expert,en,Context Awareness,1134,0.179
+gemini_3_pro,expert,en,Terminology Accessibility,1134,0.1102
+gemini_3_pro,expert,hi,Accuracy,1092,0.272
+gemini_3_pro,expert,hi,Communication,1092,0.5064
+gemini_3_pro,expert,hi,Completeness,1092,0.1355
+gemini_3_pro,expert,hi,Context Awareness,1092,0.1786
+gemini_3_pro,expert,hi,Terminology Accessibility,1092,0.1575
+gemini_3_pro,expert,mr,Accuracy,1092,0.2546
+gemini_3_pro,expert,mr,Communication,1092,0.5256
+gemini_3_pro,expert,mr,Completeness,1092,0.1419
+gemini_3_pro,expert,mr,Context Awareness,1092,0.1795
+gemini_3_pro,expert,mr,Terminology Accessibility,1092,0.1694
+gemini_3_pro,non_expert,en,Accuracy,2037,0.3726
+gemini_3_pro,non_expert,en,Communication,2037,0.6681
+gemini_3_pro,non_expert,en,Completeness,2037,0.35
+gemini_3_pro,non_expert,en,Context Awareness,2037,0.2361
+gemini_3_pro,non_expert,en,Terminology Accessibility,2037,0.1703
+gemini_3_pro,non_expert,hi,Accuracy,2043,0.3671
+gemini_3_pro,non_expert,hi,Communication,2043,0.626
+gemini_3_pro,non_expert,hi,Completeness,2043,0.3451
+gemini_3_pro,non_expert,hi,Context Awareness,2043,0.2403
+gemini_3_pro,non_expert,hi,Terminology Accessibility,2043,0.1938
+gemini_3_pro,non_expert,mr,Accuracy,2079,0.367
+gemini_3_pro,non_expert,mr,Communication,2079,0.6229
+gemini_3_pro,non_expert,mr,Completeness,2079,0.3468
+gemini_3_pro,non_expert,mr,Context Awareness,2079,0.2381
+gemini_3_pro,non_expert,mr,Terminology Accessibility,2079,0.2035
+gemma_3_27b,expert,en,Accuracy,1134,0.2284
+gemma_3_27b,expert,en,Communication,1134,0.4929
+gemma_3_27b,expert,en,Completeness,1134,0.1261
+gemma_3_27b,expert,en,Context Awareness,1134,0.1808
+gemma_3_27b,expert,en,Terminology Accessibility,1134,0.1173
+gemma_3_27b,expert,hi,Accuracy,1134,0.2619
+gemma_3_27b,expert,hi,Communication,1134,0.4885
+gemma_3_27b,expert,hi,Completeness,1134,0.1349
+gemma_3_27b,expert,hi,Context Awareness,1134,0.1746
+gemma_3_27b,expert,hi,Terminology Accessibility,1134,0.1596
+gemma_3_27b,expert,mr,Accuracy,1134,0.2407
+gemma_3_27b,expert,mr,Communication,1134,0.5176
+gemma_3_27b,expert,mr,Completeness,1134,0.1455
+gemma_3_27b,expert,mr,Context Awareness,1134,0.1781
+gemma_3_27b,expert,mr,Terminology Accessibility,1134,0.1561
+gemma_3_27b,non_expert,en,Accuracy,2079,0.3843
+gemma_3_27b,non_expert,en,Communication,2079,0.6883
+gemma_3_27b,non_expert,en,Completeness,2079,0.3574
+gemma_3_27b,non_expert,en,Context Awareness,2079,0.2511
+gemma_3_27b,non_expert,en,Terminology Accessibility,2079,0.1703
+gemma_3_27b,non_expert,hi,Accuracy,2079,0.3747
+gemma_3_27b,non_expert,hi,Communication,2079,0.6556
+gemma_3_27b,non_expert,hi,Completeness,2079,0.3314
+gemma_3_27b,non_expert,hi,Context Awareness,2079,0.2429
+gemma_3_27b,non_expert,hi,Terminology Accessibility,2079,0.2083
+gemma_3_27b,non_expert,mr,Accuracy,2079,0.3838
+gemma_3_27b,non_expert,mr,Communication,2079,0.6566
+gemma_3_27b,non_expert,mr,Completeness,2079,0.3588
+gemma_3_27b,non_expert,mr,Context Awareness,2079,0.228
+gemma_3_27b,non_expert,mr,Terminology Accessibility,2079,0.215
+gpt_4o_mini,expert,en,Accuracy,1134,0.2011
+gpt_4o_mini,expert,en,Communication,1134,0.4735
+gpt_4o_mini,expert,en,Completeness,1134,0.1164
+gpt_4o_mini,expert,en,Context Awareness,1134,0.1728
+gpt_4o_mini,expert,en,Terminology Accessibility,1134,0.0882
+gpt_4o_mini,expert,hi,Accuracy,1134,0.224
+gpt_4o_mini,expert,hi,Communication,1134,0.4824
+gpt_4o_mini,expert,hi,Completeness,1134,0.1243
+gpt_4o_mini,expert,hi,Context Awareness,1134,0.179
+gpt_4o_mini,expert,hi,Terminology Accessibility,1134,0.1235
+gpt_4o_mini,expert,mr,Accuracy,1134,0.2055
+gpt_4o_mini,expert,mr,Communication,1134,0.4903
+gpt_4o_mini,expert,mr,Completeness,1134,0.1367
+gpt_4o_mini,expert,mr,Context Awareness,1134,0.1578
+gpt_4o_mini,expert,mr,Terminology Accessibility,1134,0.1199
+gpt_4o_mini,non_expert,en,Accuracy,2079,0.3569
+gpt_4o_mini,non_expert,en,Communication,2079,0.6441
+gpt_4o_mini,non_expert,en,Completeness,2079,0.3492
+gpt_4o_mini,non_expert,en,Context Awareness,2079,0.2482
+gpt_4o_mini,non_expert,en,Terminology Accessibility,2079,0.1477
+gpt_4o_mini,non_expert,hi,Accuracy,2079,0.3444
+gpt_4o_mini,non_expert,hi,Communication,2079,0.6397
+gpt_4o_mini,non_expert,hi,Completeness,2079,0.3242
+gpt_4o_mini,non_expert,hi,Context Awareness,2079,0.2323
+gpt_4o_mini,non_expert,hi,Terminology Accessibility,2079,0.1789
+gpt_4o_mini,non_expert,mr,Accuracy,2079,0.3391
+gpt_4o_mini,non_expert,mr,Communication,2079,0.632
+gpt_4o_mini,non_expert,mr,Completeness,2079,0.3309
+gpt_4o_mini,non_expert,mr,Context Awareness,2079,0.2136
+gpt_4o_mini,non_expert,mr,Terminology Accessibility,2079,0.1794
+gpt_5_mini,expert,en,Accuracy,1134,0.2875
+gpt_5_mini,expert,en,Communication,1134,0.5106
+gpt_5_mini,expert,en,Completeness,1134,0.1481
+gpt_5_mini,expert,en,Context Awareness,1134,0.1852
+gpt_5_mini,expert,en,Terminology Accessibility,1134,0.1481
+gpt_5_mini,expert,hi,Accuracy,1134,0.328
+gpt_5_mini,expert,hi,Communication,1134,0.5379
+gpt_5_mini,expert,hi,Completeness,1134,0.1473
+gpt_5_mini,expert,hi,Context Awareness,1134,0.1887
+gpt_5_mini,expert,hi,Terminology Accessibility,1134,0.2028
+gpt_5_mini,expert,mr,Accuracy,1134,0.3113
+gpt_5_mini,expert,mr,Communication,1134,0.5467
+gpt_5_mini,expert,mr,Completeness,1134,0.1437
+gpt_5_mini,expert,mr,Context Awareness,1134,0.179
+gpt_5_mini,expert,mr,Terminology Accessibility,1134,0.1781
+gpt_5_mini,non_expert,en,Accuracy,2079,0.4156
+gpt_5_mini,non_expert,en,Communication,2079,0.6999
+gpt_5_mini,non_expert,en,Completeness,2079,0.3959
+gpt_5_mini,non_expert,en,Context Awareness,2079,0.2597
+gpt_5_mini,non_expert,en,Terminology Accessibility,2079,0.2063
+gpt_5_mini,non_expert,hi,Accuracy,2079,0.4098
+gpt_5_mini,non_expert,hi,Communication,2079,0.6873
+gpt_5_mini,non_expert,hi,Completeness,2079,0.3757
+gpt_5_mini,non_expert,hi,Context Awareness,2079,0.2617
+gpt_5_mini,non_expert,hi,Terminology Accessibility,2079,0.2501
+gpt_5_mini,non_expert,mr,Accuracy,2079,0.4242
+gpt_5_mini,non_expert,mr,Communication,2079,0.6647
+gpt_5_mini,non_expert,mr,Completeness,2079,0.3814
+gpt_5_mini,non_expert,mr,Context Awareness,2079,0.2516
+gpt_5_mini,non_expert,mr,Terminology Accessibility,2079,0.2386
+llama_3_3_70b,expert,en,Accuracy,1110,0.191
+llama_3_3_70b,expert,en,Communication,1110,0.4784
+llama_3_3_70b,expert,en,Completeness,1110,0.1099
+llama_3_3_70b,expert,en,Context Awareness,1110,0.1568
+llama_3_3_70b,expert,en,Terminology Accessibility,1110,0.0784
+llama_3_3_70b,expert,hi,Accuracy,1035,0.2367
+llama_3_3_70b,expert,hi,Communication,1035,0.487
+llama_3_3_70b,expert,hi,Completeness,1035,0.1217
+llama_3_3_70b,expert,hi,Context Awareness,1035,0.1749
+llama_3_3_70b,expert,hi,Terminology Accessibility,1035,0.1179
+llama_3_3_70b,expert,mr,Accuracy,696,0.2399
+llama_3_3_70b,expert,mr,Communication,696,0.477
+llama_3_3_70b,expert,mr,Completeness,696,0.1106
+llama_3_3_70b,expert,mr,Context Awareness,696,0.1595
+llama_3_3_70b,expert,mr,Terminology Accessibility,696,0.1379
+llama_3_3_70b,non_expert,en,Accuracy,2079,0.3439
+llama_3_3_70b,non_expert,en,Communication,2079,0.6498
+llama_3_3_70b,non_expert,en,Completeness,2079,0.3357
+llama_3_3_70b,non_expert,en,Context Awareness,2079,0.2328
+llama_3_3_70b,non_expert,en,Terminology Accessibility,2079,0.1304
+llama_3_3_70b,non_expert,hi,Accuracy,2079,0.3444
+llama_3_3_70b,non_expert,hi,Communication,2079,0.6407
+llama_3_3_70b,non_expert,hi,Completeness,2079,0.3064
+llama_3_3_70b,non_expert,hi,Context Awareness,2079,0.2285
+llama_3_3_70b,non_expert,hi,Terminology Accessibility,2079,0.1664
+llama_3_3_70b,non_expert,mr,Accuracy,2079,0.33
+llama_3_3_70b,non_expert,mr,Communication,2079,0.6157
+llama_3_3_70b,non_expert,mr,Completeness,2079,0.3117
+llama_3_3_70b,non_expert,mr,Context Awareness,2079,0.2112
+llama_3_3_70b,non_expert,mr,Terminology Accessibility,2079,0.1544
+llama_4_maverick,expert,en,Accuracy,693,0.2222
+llama_4_maverick,expert,en,Communication,693,0.4733
+llama_4_maverick,expert,en,Completeness,693,0.1169
+llama_4_maverick,expert,en,Context Awareness,693,0.1688
+llama_4_maverick,expert,en,Terminology Accessibility,693,0.0909
+llama_4_maverick,expert,hi,Accuracy,738,0.2412
+llama_4_maverick,expert,hi,Communication,738,0.4878
+llama_4_maverick,expert,hi,Completeness,738,0.1192
+llama_4_maverick,expert,hi,Context Awareness,738,0.1802
+llama_4_maverick,expert,hi,Terminology Accessibility,738,0.1341
+llama_4_maverick,expert,mr,Accuracy,810,0.2568
+llama_4_maverick,expert,mr,Communication,810,0.5
+llama_4_maverick,expert,mr,Completeness,810,0.1222
+llama_4_maverick,expert,mr,Context Awareness,810,0.158
+llama_4_maverick,expert,mr,Terminology Accessibility,810,0.1395
+llama_4_maverick,non_expert,en,Accuracy,2079,0.3458
+llama_4_maverick,non_expert,en,Communication,2079,0.6445
+llama_4_maverick,non_expert,en,Completeness,2079,0.3367
+llama_4_maverick,non_expert,en,Context Awareness,2079,0.2261
+llama_4_maverick,non_expert,en,Terminology Accessibility,2079,0.1313
+llama_4_maverick,non_expert,hi,Accuracy,2079,0.3632
+llama_4_maverick,non_expert,hi,Communication,2079,0.6378
+llama_4_maverick,non_expert,hi,Completeness,2079,0.33
+llama_4_maverick,non_expert,hi,Context Awareness,2079,0.2371
+llama_4_maverick,non_expert,hi,Terminology Accessibility,2079,0.1837
+llama_4_maverick,non_expert,mr,Accuracy,2079,0.3492
+llama_4_maverick,non_expert,mr,Communication,2079,0.6205
+llama_4_maverick,non_expert,mr,Completeness,2079,0.3314
+llama_4_maverick,non_expert,mr,Context Awareness,2079,0.2227
+llama_4_maverick,non_expert,mr,Terminology Accessibility,2079,0.176
+medgemma_27b,expert,en,Accuracy,1341,0.2662
+medgemma_27b,expert,en,Communication,1341,0.5444
+medgemma_27b,expert,en,Completeness,1341,0.1834
+medgemma_27b,expert,en,Context Awareness,1341,0.1999
+medgemma_27b,expert,en,Terminology Accessibility,1341,0.1342
+medgemma_27b,expert,hi,Accuracy,1341,0.2886
+medgemma_27b,expert,hi,Communication,1341,0.5563
+medgemma_27b,expert,hi,Completeness,1341,0.2066
+medgemma_27b,expert,hi,Context Awareness,1341,0.1991
+medgemma_27b,expert,hi,Terminology Accessibility,1341,0.173
+medgemma_27b,expert,mr,Accuracy,1341,0.2826
+medgemma_27b,expert,mr,Communication,1341,0.5675
+medgemma_27b,expert,mr,Completeness,1341,0.2133
+medgemma_27b,expert,mr,Context Awareness,1341,0.1954
+medgemma_27b,expert,mr,Terminology Accessibility,1341,0.1738
+medgemma_27b,non_expert,en,Accuracy,2079,0.3886
+medgemma_27b,non_expert,en,Communication,2079,0.6753
+medgemma_27b,non_expert,en,Completeness,2079,0.3603
+medgemma_27b,non_expert,en,Context Awareness,2079,0.2525
+medgemma_27b,non_expert,en,Terminology Accessibility,2079,0.1587
+medgemma_27b,non_expert,hi,Accuracy,2079,0.3761
+medgemma_27b,non_expert,hi,Communication,2079,0.6513
+medgemma_27b,non_expert,hi,Completeness,2079,0.3458
+medgemma_27b,non_expert,hi,Context Awareness,2079,0.2266
+medgemma_27b,non_expert,hi,Terminology Accessibility,2079,0.1967
+medgemma_27b,non_expert,mr,Accuracy,2079,0.3684
+medgemma_27b,non_expert,mr,Communication,2079,0.6359
+medgemma_27b,non_expert,mr,Completeness,2079,0.3458
+medgemma_27b,non_expert,mr,Context Awareness,2079,0.2217
+medgemma_27b,non_expert,mr,Terminology Accessibility,2079,0.1929
+medgemma_4b,non_expert,en,Accuracy,2079,0.3146
+medgemma_4b,non_expert,en,Communication,2079,0.583
+medgemma_4b,non_expert,en,Completeness,2079,0.2953
+medgemma_4b,non_expert,en,Context Awareness,2079,0.2299
+medgemma_4b,non_expert,en,Terminology Accessibility,2079,0.1227
+medgemma_4b,non_expert,hi,Accuracy,2079,0.3223
+medgemma_4b,non_expert,hi,Communication,2079,0.6051
+medgemma_4b,non_expert,hi,Completeness,2079,0.2949
+medgemma_4b,non_expert,hi,Context Awareness,2079,0.1895
+medgemma_4b,non_expert,hi,Terminology Accessibility,2079,0.1693
+medgemma_4b,non_expert,mr,Accuracy,2079,0.3309
+medgemma_4b,non_expert,mr,Communication,2079,0.5738
+medgemma_4b,non_expert,mr,Completeness,2079,0.3088
+medgemma_4b,non_expert,mr,Context Awareness,2079,0.2006
+medgemma_4b,non_expert,mr,Terminology Accessibility,2079,0.1616

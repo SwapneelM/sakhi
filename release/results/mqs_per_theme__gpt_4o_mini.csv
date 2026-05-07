@@ -1,0 +1,670 @@
+gen_model,dataset,lang,theme,n,mqs_mean
+aya_expanse,expert,en,Antenatal & Maternal Health Care,327,0.2595
+aya_expanse,expert,en,Clinical Procedures & Guidelines,12,0.1361
+aya_expanse,expert,en,"Health Systems, Access & Provider Support",6,0.4417
+aya_expanse,expert,en,Infection Prevention & Hygiene Practices,6,0.3583
+aya_expanse,expert,en,Medication & Vaccination Safety,15,0.2889
+aya_expanse,expert,en,"Mental, Emotional & Social Well-being",9,0.4426
+aya_expanse,expert,en,"Nutrition, Diet & Supplementation",54,0.4519
+aya_expanse,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2333
+aya_expanse,expert,en,Risk & Complication Management,6,0.2667
+aya_expanse,expert,en,Symptom Interpretation & Danger Sign Recognition,6,0.3667
+aya_expanse,expert,hi,Antenatal & Maternal Health Care,327,0.2791
+aya_expanse,expert,hi,Clinical Procedures & Guidelines,12,0.0931
+aya_expanse,expert,hi,"Health Systems, Access & Provider Support",6,0.4333
+aya_expanse,expert,hi,Infection Prevention & Hygiene Practices,6,0.4389
+aya_expanse,expert,hi,Medication & Vaccination Safety,15,0.32
+aya_expanse,expert,hi,"Mental, Emotional & Social Well-being",9,0.6907
+aya_expanse,expert,hi,"Nutrition, Diet & Supplementation",54,0.521
+aya_expanse,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2361
+aya_expanse,expert,hi,Risk & Complication Management,6,0.2722
+aya_expanse,expert,hi,Symptom Interpretation & Danger Sign Recognition,6,0.3833
+aya_expanse,expert,mr,Antenatal & Maternal Health Care,327,0.2342
+aya_expanse,expert,mr,Clinical Procedures & Guidelines,12,0.1903
+aya_expanse,expert,mr,"Health Systems, Access & Provider Support",6,0.4167
+aya_expanse,expert,mr,Infection Prevention & Hygiene Practices,6,0.3417
+aya_expanse,expert,mr,Medication & Vaccination Safety,15,0.2333
+aya_expanse,expert,mr,"Mental, Emotional & Social Well-being",9,0.3963
+aya_expanse,expert,mr,"Nutrition, Diet & Supplementation",54,0.4858
+aya_expanse,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2778
+aya_expanse,expert,mr,Risk & Complication Management,6,0.2139
+aya_expanse,expert,mr,Symptom Interpretation & Danger Sign Recognition,6,0.3667
+aya_expanse,non_expert,en,Antenatal & Maternal Health Care,120,0.2611
+aya_expanse,non_expert,en,Clinical Procedures & Guidelines,30,0.1728
+aya_expanse,non_expert,en,"Health Systems, Access & Provider Support",60,0.3517
+aya_expanse,non_expert,en,Infection Prevention & Hygiene Practices,120,0.3517
+aya_expanse,non_expert,en,Medication & Vaccination Safety,30,0.3717
+aya_expanse,non_expert,en,"Mental, Emotional & Social Well-being",48,0.4517
+aya_expanse,non_expert,en,"Nutrition, Diet & Supplementation",120,0.6449
+aya_expanse,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3419
+aya_expanse,non_expert,en,Risk & Complication Management,60,0.2022
+aya_expanse,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.4572
+aya_expanse,non_expert,hi,Antenatal & Maternal Health Care,120,0.2767
+aya_expanse,non_expert,hi,Clinical Procedures & Guidelines,30,0.1744
+aya_expanse,non_expert,hi,"Health Systems, Access & Provider Support",60,0.3492
+aya_expanse,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.3775
+aya_expanse,non_expert,hi,Medication & Vaccination Safety,30,0.3667
+aya_expanse,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.3927
+aya_expanse,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.5786
+aya_expanse,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3319
+aya_expanse,non_expert,hi,Risk & Complication Management,60,0.1011
+aya_expanse,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.5133
+aya_expanse,non_expert,mr,Antenatal & Maternal Health Care,120,0.2321
+aya_expanse,non_expert,mr,Clinical Procedures & Guidelines,30,0.1617
+aya_expanse,non_expert,mr,"Health Systems, Access & Provider Support",60,0.2889
+aya_expanse,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.3515
+aya_expanse,non_expert,mr,Medication & Vaccination Safety,30,0.2883
+aya_expanse,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.366
+aya_expanse,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.566
+aya_expanse,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3359
+aya_expanse,non_expert,mr,Risk & Complication Management,60,0.0889
+aya_expanse,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.4503
+claude_haiku_4_5,expert,en,Antenatal & Maternal Health Care,327,0.2978
+claude_haiku_4_5,expert,en,Clinical Procedures & Guidelines,12,0.2042
+claude_haiku_4_5,expert,en,Infection Prevention & Hygiene Practices,6,0.4972
+claude_haiku_4_5,expert,en,Medication & Vaccination Safety,15,0.36
+claude_haiku_4_5,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2861
+claude_haiku_4_5,expert,en,Risk & Complication Management,6,0.4
+claude_haiku_4_5,expert,en,Symptom Interpretation & Danger Sign Recognition,6,0.5111
+claude_haiku_4_5,expert,hi,Antenatal & Maternal Health Care,228,0.3399
+claude_haiku_4_5,expert,hi,Clinical Procedures & Guidelines,8,0.1354
+claude_haiku_4_5,expert,hi,Infection Prevention & Hygiene Practices,4,0.5042
+claude_haiku_4_5,expert,hi,Medication & Vaccination Safety,10,0.36
+claude_haiku_4_5,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),4,0.2167
+claude_haiku_4_5,expert,hi,Risk & Complication Management,4,0.3625
+claude_haiku_4_5,expert,hi,Symptom Interpretation & Danger Sign Recognition,4,0.5
+claude_haiku_4_5,expert,mr,Antenatal & Maternal Health Care,228,0.3512
+claude_haiku_4_5,expert,mr,Clinical Procedures & Guidelines,8,0.1062
+claude_haiku_4_5,expert,mr,Infection Prevention & Hygiene Practices,4,0.4417
+claude_haiku_4_5,expert,mr,Medication & Vaccination Safety,10,0.29
+claude_haiku_4_5,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),4,0.2792
+claude_haiku_4_5,expert,mr,Risk & Complication Management,4,0.2292
+claude_haiku_4_5,expert,mr,Symptom Interpretation & Danger Sign Recognition,4,0.575
+claude_haiku_4_5,non_expert,en,Antenatal & Maternal Health Care,86,0.3275
+claude_haiku_4_5,non_expert,en,Clinical Procedures & Guidelines,30,0.2372
+claude_haiku_4_5,non_expert,en,"Health Systems, Access & Provider Support",40,0.3933
+claude_haiku_4_5,non_expert,en,Infection Prevention & Hygiene Practices,117,0.3123
+claude_haiku_4_5,non_expert,en,Medication & Vaccination Safety,20,0.3658
+claude_haiku_4_5,non_expert,en,"Mental, Emotional & Social Well-being",32,0.5094
+claude_haiku_4_5,non_expert,en,"Nutrition, Diet & Supplementation",120,0.6763
+claude_haiku_4_5,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),30,0.4161
+claude_haiku_4_5,non_expert,en,Risk & Complication Management,45,0.2107
+claude_haiku_4_5,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.5122
+claude_haiku_4_5,non_expert,hi,Antenatal & Maternal Health Care,117,0.351
+claude_haiku_4_5,non_expert,hi,Clinical Procedures & Guidelines,30,0.1933
+claude_haiku_4_5,non_expert,hi,"Health Systems, Access & Provider Support",40,0.4162
+claude_haiku_4_5,non_expert,hi,Infection Prevention & Hygiene Practices,90,0.4426
+claude_haiku_4_5,non_expert,hi,Medication & Vaccination Safety,20,0.4133
+claude_haiku_4_5,non_expert,hi,"Mental, Emotional & Social Well-being",32,0.4349
+claude_haiku_4_5,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.6433
+claude_haiku_4_5,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),30,0.3694
+claude_haiku_4_5,non_expert,hi,Risk & Complication Management,40,0.09
+claude_haiku_4_5,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.5678
+claude_haiku_4_5,non_expert,mr,Antenatal & Maternal Health Care,120,0.3489
+claude_haiku_4_5,non_expert,mr,Clinical Procedures & Guidelines,30,0.2211
+claude_haiku_4_5,non_expert,mr,"Health Systems, Access & Provider Support",60,0.3717
+claude_haiku_4_5,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.4031
+claude_haiku_4_5,non_expert,mr,Medication & Vaccination Safety,30,0.2867
+claude_haiku_4_5,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.4181
+claude_haiku_4_5,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.6524
+claude_haiku_4_5,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.4026
+claude_haiku_4_5,non_expert,mr,Risk & Complication Management,60,0.0933
+claude_haiku_4_5,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.5264
+claude_opus_4_7,expert,en,Antenatal & Maternal Health Care,327,0.3016
+claude_opus_4_7,expert,en,Clinical Procedures & Guidelines,12,0.05
+claude_opus_4_7,expert,en,"Health Systems, Access & Provider Support",6,0.4333
+claude_opus_4_7,expert,en,Infection Prevention & Hygiene Practices,6,0.525
+claude_opus_4_7,expert,en,Medication & Vaccination Safety,15,0.2356
+claude_opus_4_7,expert,en,"Mental, Emotional & Social Well-being",9,0.5796
+claude_opus_4_7,expert,en,"Nutrition, Diet & Supplementation",54,0.5367
+claude_opus_4_7,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2222
+claude_opus_4_7,expert,en,Risk & Complication Management,6,0.4778
+claude_opus_4_7,expert,en,Symptom Interpretation & Danger Sign Recognition,6,0.35
+claude_opus_4_7,expert,hi,Antenatal & Maternal Health Care,327,0.3678
+claude_opus_4_7,expert,hi,Clinical Procedures & Guidelines,12,0.1014
+claude_opus_4_7,expert,hi,"Health Systems, Access & Provider Support",6,0.425
+claude_opus_4_7,expert,hi,Infection Prevention & Hygiene Practices,6,0.5278
+claude_opus_4_7,expert,hi,Medication & Vaccination Safety,15,0.2711
+claude_opus_4_7,expert,hi,"Mental, Emotional & Social Well-being",9,0.5204
+claude_opus_4_7,expert,hi,"Nutrition, Diet & Supplementation",54,0.5873
+claude_opus_4_7,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2083
+claude_opus_4_7,expert,hi,Risk & Complication Management,6,0.1778
+claude_opus_4_7,expert,hi,Symptom Interpretation & Danger Sign Recognition,6,0.4944
+claude_opus_4_7,expert,mr,Antenatal & Maternal Health Care,327,0.4103
+claude_opus_4_7,expert,mr,Clinical Procedures & Guidelines,12,0.2056
+claude_opus_4_7,expert,mr,"Health Systems, Access & Provider Support",6,0.5556
+claude_opus_4_7,expert,mr,Infection Prevention & Hygiene Practices,6,0.5889
+claude_opus_4_7,expert,mr,Medication & Vaccination Safety,15,0.21
+claude_opus_4_7,expert,mr,"Mental, Emotional & Social Well-being",9,0.8944
+claude_opus_4_7,expert,mr,"Nutrition, Diet & Supplementation",54,0.6123
+claude_opus_4_7,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2944
+claude_opus_4_7,expert,mr,Risk & Complication Management,6,0.1778
+claude_opus_4_7,expert,mr,Symptom Interpretation & Danger Sign Recognition,6,0.575
+claude_opus_4_7,non_expert,en,Antenatal & Maternal Health Care,120,0.41
+claude_opus_4_7,non_expert,en,Clinical Procedures & Guidelines,30,0.1622
+claude_opus_4_7,non_expert,en,"Health Systems, Access & Provider Support",60,0.52
+claude_opus_4_7,non_expert,en,Infection Prevention & Hygiene Practices,120,0.3918
+claude_opus_4_7,non_expert,en,Medication & Vaccination Safety,30,0.44
+claude_opus_4_7,non_expert,en,"Mental, Emotional & Social Well-being",48,0.5674
+claude_opus_4_7,non_expert,en,"Nutrition, Diet & Supplementation",120,0.6906
+claude_opus_4_7,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.4844
+claude_opus_4_7,non_expert,en,Risk & Complication Management,60,0.1606
+claude_opus_4_7,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.5328
+claude_opus_4_7,non_expert,hi,Antenatal & Maternal Health Care,120,0.4544
+claude_opus_4_7,non_expert,hi,Clinical Procedures & Guidelines,30,0.1589
+claude_opus_4_7,non_expert,hi,"Health Systems, Access & Provider Support",60,0.4789
+claude_opus_4_7,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.4933
+claude_opus_4_7,non_expert,hi,Medication & Vaccination Safety,30,0.41
+claude_opus_4_7,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.5389
+claude_opus_4_7,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.7029
+claude_opus_4_7,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.5063
+claude_opus_4_7,non_expert,hi,Risk & Complication Management,60,0.1433
+claude_opus_4_7,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.6617
+claude_opus_4_7,non_expert,mr,Antenatal & Maternal Health Care,120,0.4417
+claude_opus_4_7,non_expert,mr,Clinical Procedures & Guidelines,30,0.2406
+claude_opus_4_7,non_expert,mr,"Health Systems, Access & Provider Support",60,0.4467
+claude_opus_4_7,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.4476
+claude_opus_4_7,non_expert,mr,Medication & Vaccination Safety,30,0.3211
+claude_opus_4_7,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.4587
+claude_opus_4_7,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.7099
+claude_opus_4_7,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.5111
+claude_opus_4_7,non_expert,mr,Risk & Complication Management,60,0.07
+claude_opus_4_7,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.6078
+cohere_command_a,expert,en,Antenatal & Maternal Health Care,327,0.254
+cohere_command_a,expert,en,Clinical Procedures & Guidelines,12,0.1444
+cohere_command_a,expert,en,Infection Prevention & Hygiene Practices,6,0.3694
+cohere_command_a,expert,en,Medication & Vaccination Safety,15,0.2789
+cohere_command_a,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2556
+cohere_command_a,expert,en,Risk & Complication Management,6,0.2944
+cohere_command_a,expert,en,Symptom Interpretation & Danger Sign Recognition,6,0.3667
+cohere_command_a,expert,hi,Antenatal & Maternal Health Care,327,0.3042
+cohere_command_a,expert,hi,Clinical Procedures & Guidelines,12,0.1389
+cohere_command_a,expert,hi,Infection Prevention & Hygiene Practices,6,0.4306
+cohere_command_a,expert,hi,Medication & Vaccination Safety,15,0.2922
+cohere_command_a,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2444
+cohere_command_a,expert,hi,Risk & Complication Management,6,0.2667
+cohere_command_a,expert,hi,Symptom Interpretation & Danger Sign Recognition,6,0.5056
+cohere_command_a,expert,mr,Antenatal & Maternal Health Care,327,0.2862
+cohere_command_a,expert,mr,Clinical Procedures & Guidelines,12,0.1472
+cohere_command_a,expert,mr,Infection Prevention & Hygiene Practices,6,0.4361
+cohere_command_a,expert,mr,Medication & Vaccination Safety,15,0.2622
+cohere_command_a,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2694
+cohere_command_a,expert,mr,Risk & Complication Management,6,0.1361
+cohere_command_a,expert,mr,Symptom Interpretation & Danger Sign Recognition,6,0.3667
+cohere_command_a,non_expert,en,Antenatal & Maternal Health Care,120,0.2664
+cohere_command_a,non_expert,en,Clinical Procedures & Guidelines,30,0.2183
+cohere_command_a,non_expert,en,"Health Systems, Access & Provider Support",60,0.3589
+cohere_command_a,non_expert,en,Infection Prevention & Hygiene Practices,120,0.3458
+cohere_command_a,non_expert,en,Medication & Vaccination Safety,30,0.3761
+cohere_command_a,non_expert,en,"Mental, Emotional & Social Well-being",48,0.4986
+cohere_command_a,non_expert,en,"Nutrition, Diet & Supplementation",120,0.6476
+cohere_command_a,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3652
+cohere_command_a,non_expert,en,Risk & Complication Management,60,0.1953
+cohere_command_a,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.4944
+cohere_command_a,non_expert,hi,Antenatal & Maternal Health Care,120,0.2778
+cohere_command_a,non_expert,hi,Clinical Procedures & Guidelines,30,0.1767
+cohere_command_a,non_expert,hi,"Health Systems, Access & Provider Support",60,0.3664
+cohere_command_a,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.3896
+cohere_command_a,non_expert,hi,Medication & Vaccination Safety,30,0.3244
+cohere_command_a,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.3958
+cohere_command_a,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.6092
+cohere_command_a,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3452
+cohere_command_a,non_expert,hi,Risk & Complication Management,60,0.0767
+cohere_command_a,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.5744
+cohere_command_a,non_expert,mr,Antenatal & Maternal Health Care,120,0.2568
+cohere_command_a,non_expert,mr,Clinical Procedures & Guidelines,30,0.1478
+cohere_command_a,non_expert,mr,"Health Systems, Access & Provider Support",60,0.3033
+cohere_command_a,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.3451
+cohere_command_a,non_expert,mr,Medication & Vaccination Safety,30,0.2839
+cohere_command_a,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.3684
+cohere_command_a,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.6236
+cohere_command_a,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3526
+cohere_command_a,non_expert,mr,Risk & Complication Management,60,0.0817
+cohere_command_a,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.4464
+gemini_3_flash,expert,en,Antenatal & Maternal Health Care,327,0.264
+gemini_3_flash,expert,en,Clinical Procedures & Guidelines,12,0.1292
+gemini_3_flash,expert,en,Infection Prevention & Hygiene Practices,6,0.4611
+gemini_3_flash,expert,en,Medication & Vaccination Safety,15,0.2867
+gemini_3_flash,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2167
+gemini_3_flash,expert,en,Risk & Complication Management,6,0.3333
+gemini_3_flash,expert,en,Symptom Interpretation & Danger Sign Recognition,6,0.4056
+gemini_3_flash,expert,hi,Antenatal & Maternal Health Care,327,0.3085
+gemini_3_flash,expert,hi,Clinical Procedures & Guidelines,12,0.1333
+gemini_3_flash,expert,hi,Infection Prevention & Hygiene Practices,6,0.3889
+gemini_3_flash,expert,hi,Medication & Vaccination Safety,15,0.3278
+gemini_3_flash,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2444
+gemini_3_flash,expert,hi,Risk & Complication Management,6,0.2167
+gemini_3_flash,expert,hi,Symptom Interpretation & Danger Sign Recognition,6,0.5889
+gemini_3_flash,expert,mr,Antenatal & Maternal Health Care,327,0.3248
+gemini_3_flash,expert,mr,Clinical Procedures & Guidelines,12,0.2139
+gemini_3_flash,expert,mr,Infection Prevention & Hygiene Practices,6,0.4361
+gemini_3_flash,expert,mr,Medication & Vaccination Safety,15,0.3311
+gemini_3_flash,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2639
+gemini_3_flash,expert,mr,Risk & Complication Management,6,0.0806
+gemini_3_flash,expert,mr,Symptom Interpretation & Danger Sign Recognition,6,0.4778
+gemini_3_flash,non_expert,en,Antenatal & Maternal Health Care,120,0.2789
+gemini_3_flash,non_expert,en,Clinical Procedures & Guidelines,30,0.1778
+gemini_3_flash,non_expert,en,"Health Systems, Access & Provider Support",60,0.3444
+gemini_3_flash,non_expert,en,Infection Prevention & Hygiene Practices,120,0.3496
+gemini_3_flash,non_expert,en,Medication & Vaccination Safety,30,0.3894
+gemini_3_flash,non_expert,en,"Mental, Emotional & Social Well-being",48,0.5115
+gemini_3_flash,non_expert,en,"Nutrition, Diet & Supplementation",120,0.6421
+gemini_3_flash,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3611
+gemini_3_flash,non_expert,en,Risk & Complication Management,60,0.2142
+gemini_3_flash,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.5147
+gemini_3_flash,non_expert,hi,Antenatal & Maternal Health Care,120,0.3008
+gemini_3_flash,non_expert,hi,Clinical Procedures & Guidelines,30,0.1211
+gemini_3_flash,non_expert,hi,"Health Systems, Access & Provider Support",60,0.3628
+gemini_3_flash,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.4131
+gemini_3_flash,non_expert,hi,Medication & Vaccination Safety,30,0.4289
+gemini_3_flash,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.4844
+gemini_3_flash,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.6453
+gemini_3_flash,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3959
+gemini_3_flash,non_expert,hi,Risk & Complication Management,60,0.1053
+gemini_3_flash,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.5653
+gemini_3_flash,non_expert,mr,Antenatal & Maternal Health Care,120,0.3312
+gemini_3_flash,non_expert,mr,Clinical Procedures & Guidelines,30,0.2044
+gemini_3_flash,non_expert,mr,"Health Systems, Access & Provider Support",60,0.3492
+gemini_3_flash,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.3999
+gemini_3_flash,non_expert,mr,Medication & Vaccination Safety,30,0.3511
+gemini_3_flash,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.4767
+gemini_3_flash,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.6804
+gemini_3_flash,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3856
+gemini_3_flash,non_expert,mr,Risk & Complication Management,60,0.0297
+gemini_3_flash,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.5119
+gemini_3_pro,expert,en,Antenatal & Maternal Health Care,327,0.2543
+gemini_3_pro,expert,en,Clinical Procedures & Guidelines,12,0.1792
+gemini_3_pro,expert,en,Infection Prevention & Hygiene Practices,6,0.3306
+gemini_3_pro,expert,en,Medication & Vaccination Safety,15,0.28
+gemini_3_pro,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),6,0.1944
+gemini_3_pro,expert,en,Risk & Complication Management,6,0.2722
+gemini_3_pro,expert,en,Symptom Interpretation & Danger Sign Recognition,6,0.3667
+gemini_3_pro,expert,hi,Antenatal & Maternal Health Care,313,0.2988
+gemini_3_pro,expert,hi,Clinical Procedures & Guidelines,12,0.1153
+gemini_3_pro,expert,hi,Infection Prevention & Hygiene Practices,6,0.4056
+gemini_3_pro,expert,hi,Medication & Vaccination Safety,15,0.29
+gemini_3_pro,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2528
+gemini_3_pro,expert,hi,Risk & Complication Management,6,0.2889
+gemini_3_pro,expert,hi,Symptom Interpretation & Danger Sign Recognition,6,0.4389
+gemini_3_pro,expert,mr,Antenatal & Maternal Health Care,313,0.2932
+gemini_3_pro,expert,mr,Clinical Procedures & Guidelines,12,0.2
+gemini_3_pro,expert,mr,Infection Prevention & Hygiene Practices,6,0.4361
+gemini_3_pro,expert,mr,Medication & Vaccination Safety,15,0.2722
+gemini_3_pro,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),6,0.1944
+gemini_3_pro,expert,mr,Risk & Complication Management,6,0.1
+gemini_3_pro,expert,mr,Symptom Interpretation & Danger Sign Recognition,6,0.4056
+gemini_3_pro,non_expert,en,Antenatal & Maternal Health Care,110,0.2774
+gemini_3_pro,non_expert,en,Clinical Procedures & Guidelines,30,0.2311
+gemini_3_pro,non_expert,en,"Health Systems, Access & Provider Support",60,0.3733
+gemini_3_pro,non_expert,en,Infection Prevention & Hygiene Practices,120,0.3394
+gemini_3_pro,non_expert,en,Medication & Vaccination Safety,30,0.3556
+gemini_3_pro,non_expert,en,"Mental, Emotional & Social Well-being",44,0.4761
+gemini_3_pro,non_expert,en,"Nutrition, Diet & Supplementation",120,0.6258
+gemini_3_pro,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3496
+gemini_3_pro,non_expert,en,Risk & Complication Management,60,0.1911
+gemini_3_pro,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.4719
+gemini_3_pro,non_expert,hi,Antenatal & Maternal Health Care,108,0.2685
+gemini_3_pro,non_expert,hi,Clinical Procedures & Guidelines,30,0.1383
+gemini_3_pro,non_expert,hi,"Health Systems, Access & Provider Support",60,0.3758
+gemini_3_pro,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.3864
+gemini_3_pro,non_expert,hi,Medication & Vaccination Safety,30,0.3267
+gemini_3_pro,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.4486
+gemini_3_pro,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.6153
+gemini_3_pro,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3467
+gemini_3_pro,non_expert,hi,Risk & Complication Management,60,0.1072
+gemini_3_pro,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.5556
+gemini_3_pro,non_expert,mr,Antenatal & Maternal Health Care,120,0.2775
+gemini_3_pro,non_expert,mr,Clinical Procedures & Guidelines,30,0.1617
+gemini_3_pro,non_expert,mr,"Health Systems, Access & Provider Support",60,0.3486
+gemini_3_pro,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.3903
+gemini_3_pro,non_expert,mr,Medication & Vaccination Safety,30,0.2933
+gemini_3_pro,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.4483
+gemini_3_pro,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.63
+gemini_3_pro,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3796
+gemini_3_pro,non_expert,mr,Risk & Complication Management,60,0.0633
+gemini_3_pro,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.5322
+gemma_3_27b,expert,en,Antenatal & Maternal Health Care,327,0.2594
+gemma_3_27b,expert,en,Clinical Procedures & Guidelines,12,0.2069
+gemma_3_27b,expert,en,Infection Prevention & Hygiene Practices,6,0.5167
+gemma_3_27b,expert,en,Medication & Vaccination Safety,15,0.3178
+gemma_3_27b,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2167
+gemma_3_27b,expert,en,Risk & Complication Management,6,0.3028
+gemma_3_27b,expert,en,Symptom Interpretation & Danger Sign Recognition,6,0.3667
+gemma_3_27b,expert,hi,Antenatal & Maternal Health Care,327,0.295
+gemma_3_27b,expert,hi,Clinical Procedures & Guidelines,12,0.1153
+gemma_3_27b,expert,hi,Infection Prevention & Hygiene Practices,6,0.4944
+gemma_3_27b,expert,hi,Medication & Vaccination Safety,15,0.3256
+gemma_3_27b,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2417
+gemma_3_27b,expert,hi,Risk & Complication Management,6,0.0611
+gemma_3_27b,expert,hi,Symptom Interpretation & Danger Sign Recognition,6,0.5111
+gemma_3_27b,expert,mr,Antenatal & Maternal Health Care,327,0.2907
+gemma_3_27b,expert,mr,Clinical Procedures & Guidelines,12,0.1278
+gemma_3_27b,expert,mr,Infection Prevention & Hygiene Practices,6,0.5111
+gemma_3_27b,expert,mr,Medication & Vaccination Safety,15,0.1967
+gemma_3_27b,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2056
+gemma_3_27b,expert,mr,Risk & Complication Management,6,0.0
+gemma_3_27b,expert,mr,Symptom Interpretation & Danger Sign Recognition,6,0.4194
+gemma_3_27b,non_expert,en,Antenatal & Maternal Health Care,120,0.2858
+gemma_3_27b,non_expert,en,Clinical Procedures & Guidelines,30,0.2183
+gemma_3_27b,non_expert,en,"Health Systems, Access & Provider Support",60,0.3919
+gemma_3_27b,non_expert,en,Infection Prevention & Hygiene Practices,120,0.3489
+gemma_3_27b,non_expert,en,Medication & Vaccination Safety,30,0.3939
+gemma_3_27b,non_expert,en,"Mental, Emotional & Social Well-being",48,0.4882
+gemma_3_27b,non_expert,en,"Nutrition, Diet & Supplementation",120,0.6211
+gemma_3_27b,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3933
+gemma_3_27b,non_expert,en,Risk & Complication Management,60,0.1806
+gemma_3_27b,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.4864
+gemma_3_27b,non_expert,hi,Antenatal & Maternal Health Care,120,0.2919
+gemma_3_27b,non_expert,hi,Clinical Procedures & Guidelines,30,0.2422
+gemma_3_27b,non_expert,hi,"Health Systems, Access & Provider Support",60,0.3544
+gemma_3_27b,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.4124
+gemma_3_27b,non_expert,hi,Medication & Vaccination Safety,30,0.3622
+gemma_3_27b,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.4656
+gemma_3_27b,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.5975
+gemma_3_27b,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3437
+gemma_3_27b,non_expert,hi,Risk & Complication Management,60,0.1033
+gemma_3_27b,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.5747
+gemma_3_27b,non_expert,mr,Antenatal & Maternal Health Care,120,0.3064
+gemma_3_27b,non_expert,mr,Clinical Procedures & Guidelines,30,0.1867
+gemma_3_27b,non_expert,mr,"Health Systems, Access & Provider Support",60,0.3269
+gemma_3_27b,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.3964
+gemma_3_27b,non_expert,mr,Medication & Vaccination Safety,30,0.2783
+gemma_3_27b,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.4326
+gemma_3_27b,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.6282
+gemma_3_27b,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3815
+gemma_3_27b,non_expert,mr,Risk & Complication Management,60,0.0917
+gemma_3_27b,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.5392
+gpt_4o_mini,expert,en,Antenatal & Maternal Health Care,327,0.2356
+gpt_4o_mini,expert,en,Clinical Procedures & Guidelines,12,0.1653
+gpt_4o_mini,expert,en,Infection Prevention & Hygiene Practices,6,0.4583
+gpt_4o_mini,expert,en,Medication & Vaccination Safety,15,0.2733
+gpt_4o_mini,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2056
+gpt_4o_mini,expert,en,Risk & Complication Management,6,0.3278
+gpt_4o_mini,expert,en,Symptom Interpretation & Danger Sign Recognition,6,0.3667
+gpt_4o_mini,expert,hi,Antenatal & Maternal Health Care,327,0.2697
+gpt_4o_mini,expert,hi,Clinical Procedures & Guidelines,12,0.1069
+gpt_4o_mini,expert,hi,Infection Prevention & Hygiene Practices,6,0.3556
+gpt_4o_mini,expert,hi,Medication & Vaccination Safety,15,0.3211
+gpt_4o_mini,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2389
+gpt_4o_mini,expert,hi,Risk & Complication Management,6,0.2333
+gpt_4o_mini,expert,hi,Symptom Interpretation & Danger Sign Recognition,6,0.4778
+gpt_4o_mini,expert,mr,Antenatal & Maternal Health Care,327,0.2487
+gpt_4o_mini,expert,mr,Clinical Procedures & Guidelines,12,0.125
+gpt_4o_mini,expert,mr,Infection Prevention & Hygiene Practices,6,0.4444
+gpt_4o_mini,expert,mr,Medication & Vaccination Safety,15,0.2944
+gpt_4o_mini,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2389
+gpt_4o_mini,expert,mr,Risk & Complication Management,6,0.1139
+gpt_4o_mini,expert,mr,Symptom Interpretation & Danger Sign Recognition,6,0.4056
+gpt_4o_mini,non_expert,en,Antenatal & Maternal Health Care,120,0.2618
+gpt_4o_mini,non_expert,en,Clinical Procedures & Guidelines,30,0.2411
+gpt_4o_mini,non_expert,en,"Health Systems, Access & Provider Support",60,0.3653
+gpt_4o_mini,non_expert,en,Infection Prevention & Hygiene Practices,120,0.3296
+gpt_4o_mini,non_expert,en,Medication & Vaccination Safety,30,0.3089
+gpt_4o_mini,non_expert,en,"Mental, Emotional & Social Well-being",48,0.4611
+gpt_4o_mini,non_expert,en,"Nutrition, Diet & Supplementation",120,0.6124
+gpt_4o_mini,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3474
+gpt_4o_mini,non_expert,en,Risk & Complication Management,60,0.1953
+gpt_4o_mini,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.4711
+gpt_4o_mini,non_expert,hi,Antenatal & Maternal Health Care,120,0.2856
+gpt_4o_mini,non_expert,hi,Clinical Procedures & Guidelines,30,0.2278
+gpt_4o_mini,non_expert,hi,"Health Systems, Access & Provider Support",60,0.3219
+gpt_4o_mini,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.3806
+gpt_4o_mini,non_expert,hi,Medication & Vaccination Safety,30,0.3306
+gpt_4o_mini,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.3882
+gpt_4o_mini,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.5951
+gpt_4o_mini,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3019
+gpt_4o_mini,non_expert,hi,Risk & Complication Management,60,0.1289
+gpt_4o_mini,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.5403
+gpt_4o_mini,non_expert,mr,Antenatal & Maternal Health Care,120,0.2806
+gpt_4o_mini,non_expert,mr,Clinical Procedures & Guidelines,30,0.17
+gpt_4o_mini,non_expert,mr,"Health Systems, Access & Provider Support",60,0.2961
+gpt_4o_mini,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.3649
+gpt_4o_mini,non_expert,mr,Medication & Vaccination Safety,30,0.2772
+gpt_4o_mini,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.3799
+gpt_4o_mini,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.6081
+gpt_4o_mini,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3111
+gpt_4o_mini,non_expert,mr,Risk & Complication Management,60,0.0714
+gpt_4o_mini,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.5139
+gpt_5_mini,expert,en,Antenatal & Maternal Health Care,327,0.2953
+gpt_5_mini,expert,en,Clinical Procedures & Guidelines,12,0.1806
+gpt_5_mini,expert,en,Infection Prevention & Hygiene Practices,6,0.4556
+gpt_5_mini,expert,en,Medication & Vaccination Safety,15,0.3478
+gpt_5_mini,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2111
+gpt_5_mini,expert,en,Risk & Complication Management,6,0.3917
+gpt_5_mini,expert,en,Symptom Interpretation & Danger Sign Recognition,6,0.4194
+gpt_5_mini,expert,hi,Antenatal & Maternal Health Care,327,0.3333
+gpt_5_mini,expert,hi,Clinical Procedures & Guidelines,12,0.0972
+gpt_5_mini,expert,hi,Infection Prevention & Hygiene Practices,6,0.475
+gpt_5_mini,expert,hi,Medication & Vaccination Safety,15,0.3367
+gpt_5_mini,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2056
+gpt_5_mini,expert,hi,Risk & Complication Management,6,0.0
+gpt_5_mini,expert,hi,Symptom Interpretation & Danger Sign Recognition,6,0.5833
+gpt_5_mini,expert,mr,Antenatal & Maternal Health Care,327,0.3179
+gpt_5_mini,expert,mr,Clinical Procedures & Guidelines,12,0.1597
+gpt_5_mini,expert,mr,Infection Prevention & Hygiene Practices,6,0.4611
+gpt_5_mini,expert,mr,Medication & Vaccination Safety,15,0.2044
+gpt_5_mini,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),6,0.25
+gpt_5_mini,expert,mr,Risk & Complication Management,6,0.2833
+gpt_5_mini,expert,mr,Symptom Interpretation & Danger Sign Recognition,6,0.3778
+gpt_5_mini,non_expert,en,Antenatal & Maternal Health Care,120,0.3207
+gpt_5_mini,non_expert,en,Clinical Procedures & Guidelines,30,0.2339
+gpt_5_mini,non_expert,en,"Health Systems, Access & Provider Support",60,0.3908
+gpt_5_mini,non_expert,en,Infection Prevention & Hygiene Practices,120,0.3629
+gpt_5_mini,non_expert,en,Medication & Vaccination Safety,30,0.4111
+gpt_5_mini,non_expert,en,"Mental, Emotional & Social Well-being",48,0.5062
+gpt_5_mini,non_expert,en,"Nutrition, Diet & Supplementation",120,0.6347
+gpt_5_mini,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.4285
+gpt_5_mini,non_expert,en,Risk & Complication Management,60,0.1875
+gpt_5_mini,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.5628
+gpt_5_mini,non_expert,hi,Antenatal & Maternal Health Care,120,0.3436
+gpt_5_mini,non_expert,hi,Clinical Procedures & Guidelines,30,0.2022
+gpt_5_mini,non_expert,hi,"Health Systems, Access & Provider Support",60,0.3875
+gpt_5_mini,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.41
+gpt_5_mini,non_expert,hi,Medication & Vaccination Safety,30,0.3744
+gpt_5_mini,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.4274
+gpt_5_mini,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.669
+gpt_5_mini,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.4204
+gpt_5_mini,non_expert,hi,Risk & Complication Management,60,0.0908
+gpt_5_mini,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.5733
+gpt_5_mini,non_expert,mr,Antenatal & Maternal Health Care,120,0.3492
+gpt_5_mini,non_expert,mr,Clinical Procedures & Guidelines,30,0.2161
+gpt_5_mini,non_expert,mr,"Health Systems, Access & Provider Support",60,0.3872
+gpt_5_mini,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.4124
+gpt_5_mini,non_expert,mr,Medication & Vaccination Safety,30,0.3994
+gpt_5_mini,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.4535
+gpt_5_mini,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.6683
+gpt_5_mini,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.44
+gpt_5_mini,non_expert,mr,Risk & Complication Management,60,0.105
+gpt_5_mini,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.4928
+llama_3_3_70b,expert,en,Antenatal & Maternal Health Care,324,0.2251
+llama_3_3_70b,expert,en,Clinical Procedures & Guidelines,10,0.1583
+llama_3_3_70b,expert,en,Infection Prevention & Hygiene Practices,5,0.4333
+llama_3_3_70b,expert,en,Medication & Vaccination Safety,14,0.3226
+llama_3_3_70b,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2333
+llama_3_3_70b,expert,en,Risk & Complication Management,6,0.2389
+llama_3_3_70b,expert,en,Symptom Interpretation & Danger Sign Recognition,5,0.4133
+llama_3_3_70b,expert,hi,Antenatal & Maternal Health Care,307,0.2645
+llama_3_3_70b,expert,hi,Clinical Procedures & Guidelines,9,0.2167
+llama_3_3_70b,expert,hi,Infection Prevention & Hygiene Practices,4,0.4167
+llama_3_3_70b,expert,hi,Medication & Vaccination Safety,13,0.2782
+llama_3_3_70b,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),4,0.2708
+llama_3_3_70b,expert,hi,Risk & Complication Management,4,0.2667
+llama_3_3_70b,expert,hi,Symptom Interpretation & Danger Sign Recognition,4,0.475
+llama_3_3_70b,expert,mr,Antenatal & Maternal Health Care,198,0.2681
+llama_3_3_70b,expert,mr,Clinical Procedures & Guidelines,8,0.1125
+llama_3_3_70b,expert,mr,Infection Prevention & Hygiene Practices,4,0.4333
+llama_3_3_70b,expert,mr,Medication & Vaccination Safety,10,0.16
+llama_3_3_70b,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),4,0.2
+llama_3_3_70b,expert,mr,Risk & Complication Management,4,0.2167
+llama_3_3_70b,expert,mr,Symptom Interpretation & Danger Sign Recognition,4,0.3667
+llama_3_3_70b,non_expert,en,Antenatal & Maternal Health Care,120,0.2381
+llama_3_3_70b,non_expert,en,Clinical Procedures & Guidelines,30,0.1928
+llama_3_3_70b,non_expert,en,"Health Systems, Access & Provider Support",60,0.3497
+llama_3_3_70b,non_expert,en,Infection Prevention & Hygiene Practices,120,0.3431
+llama_3_3_70b,non_expert,en,Medication & Vaccination Safety,30,0.3683
+llama_3_3_70b,non_expert,en,"Mental, Emotional & Social Well-being",48,0.4448
+llama_3_3_70b,non_expert,en,"Nutrition, Diet & Supplementation",120,0.6071
+llama_3_3_70b,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.353
+llama_3_3_70b,non_expert,en,Risk & Complication Management,60,0.1692
+llama_3_3_70b,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.4642
+llama_3_3_70b,non_expert,hi,Antenatal & Maternal Health Care,120,0.2672
+llama_3_3_70b,non_expert,hi,Clinical Procedures & Guidelines,30,0.1872
+llama_3_3_70b,non_expert,hi,"Health Systems, Access & Provider Support",60,0.3564
+llama_3_3_70b,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.3799
+llama_3_3_70b,non_expert,hi,Medication & Vaccination Safety,30,0.3383
+llama_3_3_70b,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.3788
+llama_3_3_70b,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.5449
+llama_3_3_70b,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3052
+llama_3_3_70b,non_expert,hi,Risk & Complication Management,60,0.1456
+llama_3_3_70b,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.5119
+llama_3_3_70b,non_expert,mr,Antenatal & Maternal Health Care,120,0.2775
+llama_3_3_70b,non_expert,mr,Clinical Procedures & Guidelines,30,0.1772
+llama_3_3_70b,non_expert,mr,"Health Systems, Access & Provider Support",60,0.3139
+llama_3_3_70b,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.3714
+llama_3_3_70b,non_expert,mr,Medication & Vaccination Safety,30,0.3022
+llama_3_3_70b,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.3344
+llama_3_3_70b,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.5563
+llama_3_3_70b,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3107
+llama_3_3_70b,non_expert,mr,Risk & Complication Management,60,0.1028
+llama_3_3_70b,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.4667
+llama_4_maverick,expert,en,Antenatal & Maternal Health Care,207,0.2494
+llama_4_maverick,expert,en,Clinical Procedures & Guidelines,6,0.1722
+llama_4_maverick,expert,en,Infection Prevention & Hygiene Practices,3,0.4333
+llama_4_maverick,expert,en,Medication & Vaccination Safety,6,0.3139
+llama_4_maverick,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),2,0.225
+llama_4_maverick,expert,en,Risk & Complication Management,4,0.3042
+llama_4_maverick,expert,en,Symptom Interpretation & Danger Sign Recognition,3,0.3667
+llama_4_maverick,expert,hi,Antenatal & Maternal Health Care,211,0.2777
+llama_4_maverick,expert,hi,Clinical Procedures & Guidelines,8,0.1167
+llama_4_maverick,expert,hi,Infection Prevention & Hygiene Practices,4,0.4333
+llama_4_maverick,expert,hi,Medication & Vaccination Safety,11,0.3167
+llama_4_maverick,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),4,0.275
+llama_4_maverick,expert,hi,Risk & Complication Management,4,0.2792
+llama_4_maverick,expert,hi,Symptom Interpretation & Danger Sign Recognition,4,0.475
+llama_4_maverick,expert,mr,Antenatal & Maternal Health Care,230,0.2773
+llama_4_maverick,expert,mr,Clinical Procedures & Guidelines,10,0.1617
+llama_4_maverick,expert,mr,Infection Prevention & Hygiene Practices,5,0.4667
+llama_4_maverick,expert,mr,Medication & Vaccination Safety,11,0.2833
+llama_4_maverick,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),4,0.2458
+llama_4_maverick,expert,mr,Risk & Complication Management,5,0.2767
+llama_4_maverick,expert,mr,Symptom Interpretation & Danger Sign Recognition,5,0.4067
+llama_4_maverick,non_expert,en,Antenatal & Maternal Health Care,120,0.2507
+llama_4_maverick,non_expert,en,Clinical Procedures & Guidelines,30,0.1656
+llama_4_maverick,non_expert,en,"Health Systems, Access & Provider Support",60,0.3592
+llama_4_maverick,non_expert,en,Infection Prevention & Hygiene Practices,120,0.3307
+llama_4_maverick,non_expert,en,Medication & Vaccination Safety,30,0.3656
+llama_4_maverick,non_expert,en,"Mental, Emotional & Social Well-being",48,0.4451
+llama_4_maverick,non_expert,en,"Nutrition, Diet & Supplementation",120,0.5858
+llama_4_maverick,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3541
+llama_4_maverick,non_expert,en,Risk & Complication Management,60,0.1894
+llama_4_maverick,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.4314
+llama_4_maverick,non_expert,hi,Antenatal & Maternal Health Care,120,0.2774
+llama_4_maverick,non_expert,hi,Clinical Procedures & Guidelines,30,0.1894
+llama_4_maverick,non_expert,hi,"Health Systems, Access & Provider Support",60,0.3814
+llama_4_maverick,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.3904
+llama_4_maverick,non_expert,hi,Medication & Vaccination Safety,30,0.325
+llama_4_maverick,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.3937
+llama_4_maverick,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.5924
+llama_4_maverick,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3385
+llama_4_maverick,non_expert,hi,Risk & Complication Management,60,0.0944
+llama_4_maverick,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.5211
+llama_4_maverick,non_expert,mr,Antenatal & Maternal Health Care,120,0.2849
+llama_4_maverick,non_expert,mr,Clinical Procedures & Guidelines,30,0.2172
+llama_4_maverick,non_expert,mr,"Health Systems, Access & Provider Support",60,0.3611
+llama_4_maverick,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.3724
+llama_4_maverick,non_expert,mr,Medication & Vaccination Safety,30,0.3417
+llama_4_maverick,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.383
+llama_4_maverick,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.5938
+llama_4_maverick,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3244
+llama_4_maverick,non_expert,mr,Risk & Complication Management,60,0.1008
+llama_4_maverick,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.4653
+medgemma_27b,expert,en,Antenatal & Maternal Health Care,327,0.2611
+medgemma_27b,expert,en,Clinical Procedures & Guidelines,12,0.1528
+medgemma_27b,expert,en,"Health Systems, Access & Provider Support",6,0.4417
+medgemma_27b,expert,en,Infection Prevention & Hygiene Practices,6,0.4278
+medgemma_27b,expert,en,Medication & Vaccination Safety,15,0.2756
+medgemma_27b,expert,en,"Mental, Emotional & Social Well-being",9,0.5907
+medgemma_27b,expert,en,"Nutrition, Diet & Supplementation",54,0.4892
+medgemma_27b,expert,en,Reproductive & Sexual Health (Beyond Pregnancy),6,0.225
+medgemma_27b,expert,en,Risk & Complication Management,6,0.3278
+medgemma_27b,expert,en,Symptom Interpretation & Danger Sign Recognition,6,0.3667
+medgemma_27b,expert,hi,Antenatal & Maternal Health Care,327,0.2887
+medgemma_27b,expert,hi,Clinical Procedures & Guidelines,12,0.1
+medgemma_27b,expert,hi,"Health Systems, Access & Provider Support",6,0.45
+medgemma_27b,expert,hi,Infection Prevention & Hygiene Practices,6,0.4556
+medgemma_27b,expert,hi,Medication & Vaccination Safety,15,0.32
+medgemma_27b,expert,hi,"Mental, Emotional & Social Well-being",9,0.6352
+medgemma_27b,expert,hi,"Nutrition, Diet & Supplementation",54,0.5086
+medgemma_27b,expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2472
+medgemma_27b,expert,hi,Risk & Complication Management,6,0.1667
+medgemma_27b,expert,hi,Symptom Interpretation & Danger Sign Recognition,6,0.45
+medgemma_27b,expert,mr,Antenatal & Maternal Health Care,327,0.2849
+medgemma_27b,expert,mr,Clinical Procedures & Guidelines,12,0.2111
+medgemma_27b,expert,mr,"Health Systems, Access & Provider Support",6,0.4333
+medgemma_27b,expert,mr,Infection Prevention & Hygiene Practices,6,0.4306
+medgemma_27b,expert,mr,Medication & Vaccination Safety,15,0.2789
+medgemma_27b,expert,mr,"Mental, Emotional & Social Well-being",9,0.7981
+medgemma_27b,expert,mr,"Nutrition, Diet & Supplementation",54,0.5108
+medgemma_27b,expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),6,0.2
+medgemma_27b,expert,mr,Risk & Complication Management,6,0.0639
+medgemma_27b,expert,mr,Symptom Interpretation & Danger Sign Recognition,6,0.3056
+medgemma_27b,non_expert,en,Antenatal & Maternal Health Care,120,0.2779
+medgemma_27b,non_expert,en,Clinical Procedures & Guidelines,30,0.1933
+medgemma_27b,non_expert,en,"Health Systems, Access & Provider Support",60,0.3706
+medgemma_27b,non_expert,en,Infection Prevention & Hygiene Practices,120,0.3493
+medgemma_27b,non_expert,en,Medication & Vaccination Safety,30,0.355
+medgemma_27b,non_expert,en,"Mental, Emotional & Social Well-being",48,0.492
+medgemma_27b,non_expert,en,"Nutrition, Diet & Supplementation",120,0.6308
+medgemma_27b,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.37
+medgemma_27b,non_expert,en,Risk & Complication Management,60,0.2089
+medgemma_27b,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.51
+medgemma_27b,non_expert,hi,Antenatal & Maternal Health Care,120,0.2856
+medgemma_27b,non_expert,hi,Clinical Procedures & Guidelines,30,0.2278
+medgemma_27b,non_expert,hi,"Health Systems, Access & Provider Support",60,0.3494
+medgemma_27b,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.3887
+medgemma_27b,non_expert,hi,Medication & Vaccination Safety,30,0.3328
+medgemma_27b,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.4344
+medgemma_27b,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.6261
+medgemma_27b,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3289
+medgemma_27b,non_expert,hi,Risk & Complication Management,60,0.1439
+medgemma_27b,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.5597
+medgemma_27b,non_expert,mr,Antenatal & Maternal Health Care,120,0.294
+medgemma_27b,non_expert,mr,Clinical Procedures & Guidelines,30,0.2128
+medgemma_27b,non_expert,mr,"Health Systems, Access & Provider Support",60,0.3503
+medgemma_27b,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.3901
+medgemma_27b,non_expert,mr,Medication & Vaccination Safety,30,0.2928
+medgemma_27b,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.4427
+medgemma_27b,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.6279
+medgemma_27b,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3633
+medgemma_27b,non_expert,mr,Risk & Complication Management,60,0.0669
+medgemma_27b,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.5011
+medgemma_4b,non_expert,en,Antenatal & Maternal Health Care,120,0.2424
+medgemma_4b,non_expert,en,Clinical Procedures & Guidelines,30,0.1339
+medgemma_4b,non_expert,en,"Health Systems, Access & Provider Support",60,0.3233
+medgemma_4b,non_expert,en,Infection Prevention & Hygiene Practices,120,0.2814
+medgemma_4b,non_expert,en,Medication & Vaccination Safety,30,0.2556
+medgemma_4b,non_expert,en,"Mental, Emotional & Social Well-being",48,0.4344
+medgemma_4b,non_expert,en,"Nutrition, Diet & Supplementation",120,0.5507
+medgemma_4b,non_expert,en,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3556
+medgemma_4b,non_expert,en,Risk & Complication Management,60,0.1028
+medgemma_4b,non_expert,en,Symptom Interpretation & Danger Sign Recognition,60,0.3814
+medgemma_4b,non_expert,hi,Antenatal & Maternal Health Care,120,0.2208
+medgemma_4b,non_expert,hi,Clinical Procedures & Guidelines,30,0.1906
+medgemma_4b,non_expert,hi,"Health Systems, Access & Provider Support",60,0.3214
+medgemma_4b,non_expert,hi,Infection Prevention & Hygiene Practices,120,0.3682
+medgemma_4b,non_expert,hi,Medication & Vaccination Safety,30,0.2778
+medgemma_4b,non_expert,hi,"Mental, Emotional & Social Well-being",48,0.4
+medgemma_4b,non_expert,hi,"Nutrition, Diet & Supplementation",120,0.5026
+medgemma_4b,non_expert,hi,Reproductive & Sexual Health (Beyond Pregnancy),45,0.2867
+medgemma_4b,non_expert,hi,Risk & Complication Management,60,0.1028
+medgemma_4b,non_expert,hi,Symptom Interpretation & Danger Sign Recognition,60,0.4114
+medgemma_4b,non_expert,mr,Antenatal & Maternal Health Care,120,0.2225
+medgemma_4b,non_expert,mr,Clinical Procedures & Guidelines,30,0.1461
+medgemma_4b,non_expert,mr,"Health Systems, Access & Provider Support",60,0.3192
+medgemma_4b,non_expert,mr,Infection Prevention & Hygiene Practices,120,0.3501
+medgemma_4b,non_expert,mr,Medication & Vaccination Safety,30,0.185
+medgemma_4b,non_expert,mr,"Mental, Emotional & Social Well-being",48,0.3281
+medgemma_4b,non_expert,mr,"Nutrition, Diet & Supplementation",120,0.54
+medgemma_4b,non_expert,mr,Reproductive & Sexual Health (Beyond Pregnancy),45,0.3415
+medgemma_4b,non_expert,mr,Risk & Complication Management,60,0.1164
+medgemma_4b,non_expert,mr,Symptom Interpretation & Danger Sign Recognition,60,0.4719
