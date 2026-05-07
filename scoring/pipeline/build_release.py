@@ -93,7 +93,7 @@ A parallel multilingual (English / Hindi / Marathi) benchmark for evaluating lar
 models on maternal and reproductive health questions as asked by women in rural and
 semi-urban India.
 
-The HuggingFace parquet release lives at `simppl/sakhi`; this directory holds the
+The HuggingFace parquet release lives at `SimPPL/sakhi`; this directory holds the
 CSV-flavoured variant for GitHub readers.
 
 ## Files

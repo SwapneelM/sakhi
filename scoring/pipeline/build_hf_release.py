@@ -15,7 +15,7 @@ Outputs:
     README.md                      (HF dataset card)
 
 Usage:
-  python -m scoring.pipeline.build_hf_release [--repo-id simppl/sakhi]
+  python -m scoring.pipeline.build_hf_release [--repo-id SimPPL/sakhi]
 """
 from __future__ import annotations
 import argparse, hashlib, json, shutil
@@ -468,8 +468,8 @@ def write_readme(repo_id: str) -> Path:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--repo-id", default="simppl/sakhi",
-                    help="HF dataset repo id used in load_dataset() examples (default: simppl/sakhi)")
+    ap.add_argument("--repo-id", default="SimPPL/sakhi",
+                    help="HF dataset repo id used in load_dataset() examples (default: SimPPL/sakhi)")
     args = ap.parse_args()
 
     parquets = build_parquets()
