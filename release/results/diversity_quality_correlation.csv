@@ -1,0 +1,7 @@
+scope,lang,n,spearman_rho,note
+per_response_typicality_vs_mqs,en,4310,-0.1952,positive => responses far from centroid (more distinctive) score higher
+per_response_typicality_vs_mqs,hi,4187,-0.1408,positive => responses far from centroid (more distinctive) score higher
+per_response_typicality_vs_mqs,mr,4327,-0.1129,positive => responses far from centroid (more distinctive) score higher
+per_cell_spread_vs_mean_mqs,en,13,-0.0165,positive => higher-spread models score higher
+per_cell_spread_vs_mean_mqs,hi,13,0.033,positive => higher-spread models score higher
+per_cell_spread_vs_mean_mqs,mr,13,-0.2747,positive => higher-spread models score higher
